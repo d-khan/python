@@ -11,9 +11,15 @@
 |   Location                    |   Online|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
 |   Duration                    |   Jan 30 – May 27 (16 weeks)|
-|   Professor                   |   Dr Danish Khan|
+|   Professor 1                 |   Dr Danish Khan|
 |   Office hours                |   Mon 9:30-10:30 am - Online (Booking required via an email)|
 |   Email                       |   dkhan1010@gmail.com |
+|   Professor 2                 |   Andrew Huang |
+|   Office hours                |   Fri 8:30-10:10an on Zoom https://sdccd-edu.zoom.us/j/81914226721?pwd=cDg5T0IxOXV4SlNKUmZ3Z0NLZnp1UT09|
+|   Email                       |   ahuang@sdccd.edu |
+|   Discord                     |   ahuang#8611 |
+
+>Two Professors deliver the Python course. Prof Danish will cover materials from weeks 1-8, and Prof Andrew will cover materials from weeks 9-16.
 
 ## __Important dates/deadline__
 
