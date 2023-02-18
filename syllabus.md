@@ -2,7 +2,7 @@
 
 ## __Course information__
 
-|<div style="width:100px"></div> |                                           |
+|<div style="width:100px"></div> |                |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-179 Python Programming|
 |   Year                        |   Spring 2023-24|
