@@ -2,7 +2,7 @@
 
 ## __Course information__
 
-|                               |                                           |
+|<div style="width:100px"></div> |                                           |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-179 Python Programming|
 |   Year                        |   Spring 2023-24|
@@ -11,15 +11,15 @@
 |   Location                    |   Online|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
 |   Duration                    |   Jan 30 – May 27 (16 weeks)|
-|   Professor 1                 |   Dr Danish Khan|
-|   Office hours                |   Mon 9:30-10:30 am - Online (Booking required via an email)|
-|   Email                       |   dkhan1010@gmail.com |
-|   Professor 2                 |   Andrew Huang |
-|   Office hours                |   Fri 8:30-10:10an on Zoom https://sdccd-edu.zoom.us/j/81914226721?pwd=cDg5T0IxOXV4SlNKUmZ3Z0NLZnp1UT09|
-|   Email                       |   ahuang@sdccd.edu |
-|   Discord                     |   ahuang#8611 |
+|   Professor #1                |   Dr Danish Khan|
+|   Office hours #1             |   Mon 9:30-10:30 am - Online (Booking required via an email)|
+|   Email #1                    |   dkhan1010@gmail.com |
+|   Professor #2                |   Andrew Huang |
+|   Office hours #2             |   Fri 8:30-10:10an on Zoom <https://sdccd-edu.zoom.us/j/81914226721?pwd=cDg5T0IxOXV4SlNKUmZ3Z0NLZnp1UT09|>
+|   Email #2                    |   ahuang@sdccd.edu |
+|   Discord #2                  |   ahuang#8611 |
 
->Two Professors deliver the Python course. Prof Danish will cover materials from weeks 1-8, and Prof Andrew will cover materials from weeks 9-16.
+>__Note:__ Two Professors deliver the Python course. Prof Danish will cover materials from weeks 1-8, and Prof Andrew will cover materials from weeks 9-16.
 
 ## __Important dates/deadline__
 
@@ -37,13 +37,14 @@
 
 ## __Instructor communication policy__
 
-The best way to reach me is via my email __dkhan1010@gmail.com__  
-
+__Danish Khan:__ The best way to reach me is via my email __dkhan1010@gmail.com__  
 If I have not responded to your message within 24 hours, Monday through Friday, or within 48 hours on the weekend, then please resend the message to my email. Messages sent on Friday evening, Saturday, Sunday, or during holidays may have a slower response time.
+
+__Andrew Huang:__ Contact me via email, Canvas Messaging, or Discord. Reference CISC 179 when messaging about this course, I will do my best to respond within 48 hours.
 
 ## __Course outline and schedule__
 
-|Week|Date(dd/mm)|Topics | Deadlines|
+|Week|<div style="width:50px">Date</div>|Topics | Deadlines|
 |-|--|--|----|
 |1  |30 Jan |Introduction to Python | Assignments due on 5 Feb |
 |2  |6 Feb  |Data types, variables, basic I/O operations and basic operators | Assignments due on 12 Feb |
@@ -65,7 +66,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 
 ## __Textbook__
 
-I recommend following the notes and resources provided on the course site in Canvas. Create a free account in OpenEDG and enrolled in “Python Essentials 1” and “Python Essentials 2” courses. 
+I recommend following the notes and resources provided on the course site in Canvas. Create a free account in OpenEDG and enrolled in “Python Essentials 1” and “Python Essentials 2” courses.
 
 ## __Software and hardware resources__
 
