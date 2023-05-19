@@ -66,13 +66,14 @@ __Andrew Huang:__ Contact me via email, Canvas Messaging, or Discord. Reference 
 
 ## __Textbook__
 
-I recommend following the notes and resources provided on the course site in Canvas. Create a free account in OpenEDG and enrolled in “Python Essentials 1” and “Python Essentials 2” courses.
+I recommend following the notes and resources provided on the course site in Canvas. Create a free account in OpenEDG and enrolled in “Python Essentials 1”, “Python Essentials 2”, and “Introduction to GUI Programming in Python: TkInter” courses.
 
 ## __Software and hardware resources__
 
 - Minimum Laptop/desktop requirements: Intel/AMD CPU, 4GB DDR3/4 generation RAM, 40+GB hard drive, 64-bit OS (Windows/OSX), Microphone, and high-speed Internet.
 - SD Miramar students may check out laptops from the library, dependent on availability at <https://sdmiramar.edu/library/materials-checkout>
 - Students may be eligible for emergency broadband internet discounts at Affordable Connectivity Program <https://www.fcc.gov/acp>
+- PyCharm Professional (free with 1 year student license)
 
 ## __Grading scheme__
 
