@@ -44,25 +44,25 @@ __Andrew Huang:__ Contact me via email, Canvas Messaging, or Discord. Reference 
 
 ## __Course outline and schedule__
 
-|Week|<div style="width:50px">Date</div>|Topics | Deadlines|
-|-|--|--|----|
-|1  |30 Jan |Introduction to Python | Assignments due on 5 Feb |
+|Week|<div style="width:50px">Date</div>|Topics | Deadlines                 |
+|-|--|--|---------------------------|
+|1  |30 Jan |Introduction to Python | Assignments due on 5 Feb  |
 |2  |6 Feb  |Data types, variables, basic I/O operations and basic operators | Assignments due on 12 Feb |
 |3  |13 Feb |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | Assignments due on 19 Feb |
 |4  |20 Feb |Functions, tuples, dictionaries, data processing and exceptions | Assignments due on 26 Feb |
-|5  |27 Feb |Modules, Packages and PIP | Assignments Due on 5 Mar|
-|6  |6 Mar  |Strings, string and list methods, and exceptions | Assignments due on 12 Mar|
-|7  |13 Mar |Object-Oriented Programming | Assignments due on 19 Mar|
+|5  |27 Feb |Modules, Packages and PIP | Assignments Due on 5 Mar  |
+|6  |6 Mar  |Strings, string and list methods, and exceptions | Assignments due on 12 Mar |
+|7  |13 Mar |Object-Oriented Programming | Assignments due on 19 Mar |
 |8  |20 Mar |__Project due on 2 Apr__|
 |||__Spring break (27 Mar - 1 Apr) - No classes__|
-|9  |3 Apr  |Inheritance, Polymorphism, Type Casting| Assignments due on xxx|
-|10 |10 Apr |File Input / Output | Assignments due on xxx|
-|11 |17 Apr |Data Validation | Assignments due on xxx|
-|12 |24 Apr |Event Programming and Procedural Design | Assignments due on xxx |
-|13 |1 May  |Graphics and Charts | Assignments due on xxx |
-|14 |8 May  |Graphical User Interface | Assignments due on xxx |
-|15 |15 May |Web-enabled Applications | Project submission xxx |
-|16 |22 May | __Project due on 27 May__
+|9  |3 Apr  |Inheritance, Polymorphism, Type Casting| See Canvas for due dates  |
+|10 |10 Apr |File Input / Output | See Canvas for due dates    |
+|11 |17 Apr |Data Validation | See Canvas for due dates    |
+|12 |24 Apr |Event Programming and Procedural Design | See Canvas for due dates    |
+|13 |1 May  |Graphics and Charts | See Canvas for due dates    |
+|14 |8 May  |Graphical User Interface | See Canvas for due dates    |
+|15 |15 May |Web-enabled Applications | See Canvas for due dates    |
+|16 |22 May | __Final Project due on 27 May__
 
 ## __Textbook__
 
@@ -86,11 +86,11 @@ I recommend following the notes and resources provided on the course site in Can
 
 ## __Course evaluation schemes__
 
-|Evaluation type|Out of 100|
-|:-|:-|
-|Discussion/weekly lab assignments|40|
-|Quizzes|20|
-|Project x 2|40|
+| Evaluation type        | Out of 160.5 |
+|:-----------------------|:-------------|
+| Weekly lab assignments | 140          |
+| Discussions            | 20.5         |
+| Project x 2            | 40           |
 
 ## __Late/due work__
 
