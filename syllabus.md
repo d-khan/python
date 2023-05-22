@@ -87,7 +87,7 @@ I recommend following the notes and resources provided on the course site in Can
 
 ## __Course evaluation schemes__
 
-| Evaluation type        | Out of 160.5 |
+| Evaluation type        | Out of 200.5 |
 |:-----------------------|:-------------|
 | Weekly lab assignments | 140          |
 | Discussions            | 20.5         |
