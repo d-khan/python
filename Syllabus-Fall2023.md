@@ -17,7 +17,7 @@
 |   Office hours #2             |   
 |   Email #2                    |    |
 
->__Note:__ Two Professors deliver the Python course. Prof Danish will cover materials from weeks 1-8, and Prof Idiris will cover materials from weeks 9-16.
+>__Note:__ Two Professors deliver the Python course. Prof Danish will cover materials from weeks 1-8, and Prof Raab will cover materials from weeks 9-16.
 
 ## __Instructor communication policy__
 
