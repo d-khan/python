@@ -13,17 +13,17 @@
 |   Duration                    |   Aug 21 – Dec 16 (16 weeks)|
 |   Professor #1                |   Dr Danish Khan|
 |   Office hours #1             |   Mon 9:30-10:30 am - Online (Booking required via Canvas Messaging)|
-|   Professor #2                |   Raab Muhammad |
+|   Professor #2                |   Rabb Muhammad |
 |   Office hours #2             |   
 |   Email #2                    |    |
 
->__Note:__ Two Professors deliver the Python course. Prof Danish will cover materials from weeks 1-8, and Prof Raab will cover materials from weeks 9-16.
+>__Note:__ Two Professors deliver the Python course. Prof Danish will cover materials from weeks 1-8, and Prof Rabb will cover materials from weeks 9-16.
 
 ## __Instructor communication policy__
 
 __Danish Khan:__ The best way to reach me is via my email __Canvas Messaging System__  If I have not responded to your message within 24 hours, Monday through Friday, or within 48 hours on the weekend, then please resend the message to my email. Messages sent on Friday evening, Saturday, Sunday, or during holidays may have a slower response time.
 
-__Raad Muhammad:__ 
+__Rabb Muhammad:__ 
 
 ## __Important dates/deadline__
 
