@@ -40,6 +40,27 @@ __Mohamed Sharif-Idiris:__
 |16 Dec                 |   Session ends|
 |5 Jan 2024             | __Grades:__ Deadline for instructors to submit final grades|
 
+## __Course outline and schedule__
+
+|Week|<div style="width:50px">Date</div>|Topics | Deadlines                 |
+|-|--|--|---------------------------|
+|1  |21 Aug |Introduction to Python | See Canvas for due dates  |
+|2  |28 Aug |Data types, variables, basic I/O operations and basic operators | See Canvas for due dates |
+|3  |4 Sep  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | See Canvas for due dates |
+|4  |11 Sep |Functions, tuples, dictionaries, data processing and exceptions | See Canvas for due dates |
+|5  |18 Sep |Modules, Packages and PIP | See Canvas for due dates  |
+|6  |25 Sep |Strings, string and list methods, and exceptions | See Canvas for due dates |
+|7  |2 Oct |Object-Oriented Programming | See Canvas for due dates |
+|8  |9 Oct |__Project due on 15 Oct__|
+|9  |  |  | See Canvas for due dates  |
+|10 |  |  | See Canvas for due dates    |
+|11 |  |  | See Canvas for due dates    |
+|12 |  |  | See Canvas for due dates    |
+|13 |  |  | See Canvas for due dates    |
+|||__Break + Thanksgiving (20 - 24 Nov) - No classes__|
+|14 |  |  | See Canvas for due dates    |
+|15 |  |  | See Canvas for due dates    |
+|16 |  |  |__Final Project due on__
 
 ## __Textbook__
 
