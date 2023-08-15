@@ -5,42 +5,25 @@
 |<div style="width:100px"></div> |                |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-179 Python Programming|
-|   Year                        |   Spring 2023-24|
-|   Class ID                    |   22480|
+|   Year                        |   Fall 2023-24|
+|   Class ID                    |   40861|
 |   Section                     |   3001|
 |   Location                    |   Online|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Jan 30 – May 27 (16 weeks)|
+|   Duration                    |   Aug 21 – Dec 16 (16 weeks)|
 |   Professor #1                |   Dr Danish Khan|
-|   Office hours #1             |   Mon 9:30-10:30 am - Online (Booking required via an email)|
-|   Email #1                    |   dkhan1010@gmail.com |
-|   Professor #2                |   Andrew Huang |
-|   Office hours #2             |   Fri 8:30-10:10an on Zoom <https://sdccd-edu.zoom.us/j/81914226721?pwd=cDg5T0IxOXV4SlNKUmZ3Z0NLZnp1UT09|>
-|   Email #2                    |   ahuang@sdccd.edu |
-|   Discord #2                  |   ahuang#8611 |
+|   Office hours #1             |   Mon 9:30-10:30 am - Online (Booking required via Canvas Messaging)|
+|   Professor #2                |   Mohamed Sharif-Idiris |
+|   Office hours #2             |   
+|   Email #2                    |    |
 
->__Note:__ Two Professors deliver the Python course. Prof Danish will cover materials from weeks 1-8, and Prof Andrew will cover materials from weeks 9-16.
-
-## __Important dates/deadline__
-
-|<div style="width:100px"></div> ||
-|:----------------------|:--------------|
-|30 Jan                 |   Spring 2023 Primary 16-Week Session Begins |
-|10 Feb                 |   __Student Add/Drop:__ Deadline to drop classes with no "W" recorded|
-|13 Feb                 |   Instructor Drop/Census: All drops must be submitted by Noon
-|17-20 Feb              |   __Lincoln/Washington Day (CAMPUS CLOSED)__ |
-|31 Mar                 |   __Cesar Chavez Day (CAMPUS CLOSED)__
-|14 Apr                 |   __Pass/No Pass:__ Deadline for the student to select the P/NP option. __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
-|27 May                 |   Session end|
-|29 May                 |   __Memorial Day (CAMPUS CLOSED)__ |
-|2 Jun                  |   __Grades:__ Deadline for instructors to submit final grades|
+>__Note:__ Two Professors deliver the Python course. Prof Danish will cover materials from weeks 1-8, and Prof Idiris will cover materials from weeks 9-16.
 
 ## __Instructor communication policy__
 
-__Danish Khan:__ The best way to reach me is via my email __dkhan1010@gmail.com__  
-If I have not responded to your message within 24 hours, Monday through Friday, or within 48 hours on the weekend, then please resend the message to my email. Messages sent on Friday evening, Saturday, Sunday, or during holidays may have a slower response time.
+__Danish Khan:__ The best way to reach me is via my email __Canvas Messaging System__  If I have not responded to your message within 24 hours, Monday through Friday, or within 48 hours on the weekend, then please resend the message to my email. Messages sent on Friday evening, Saturday, Sunday, or during holidays may have a slower response time.
 
-__Andrew Huang:__ Contact me via email, Canvas Messaging, or Discord. Reference CISC 179 when messaging about this course, I will do my best to respond within 48 hours.
+__Mohamed Sharif-Idiris:__ 
 
 ## __Important dates/deadline__
 
@@ -60,7 +43,7 @@ __Andrew Huang:__ Contact me via email, Canvas Messaging, or Discord. Reference 
 
 ## __Textbook__
 
-I recommend following the notes and resources provided on the course site in Canvas. Create a free account in OpenEDG and enrolled in “Python Essentials 1”, “Python Essentials 2”, and “Introduction to GUI Programming in Python: TkInter” courses.
+I recommend following the notes and resources provided on the course site in Canvas. Create a free account in OpenEDG and enroll in “Python Essentials 1” and “Python Essentials 2”.
 
 ## __Software and hardware resources__
 
@@ -81,11 +64,11 @@ I recommend following the notes and resources provided on the course site in Can
 
 ## __Course evaluation schemes__
 
-| Evaluation type        | Out of 200.5 |
+| Evaluation type        | Out of 100 |
 |:-----------------------|:-------------|
-| Weekly lab assignments | 140          |
-| Discussions            | 20.5         |
-| Project x 2            | 40           |
+| Weekly lab assignments | 40          |
+| Discussions            | 20          |
+| Project x 2            | 40          |
 
 ## __Late/due work__
 
