@@ -52,15 +52,15 @@ __Rabb Muhammad:__
 |6  |25 Sep |Strings, string and list methods, and exceptions | See Canvas for due dates |
 |7  |2 Oct |Object-Oriented Programming | See Canvas for due dates |
 |8  |9 Oct |__Project due on 15 Oct__|
-|9  |  |  | See Canvas for due dates  |
-|10 |  |  | See Canvas for due dates    |
-|11 |  |  | See Canvas for due dates    |
-|12 |  |  | See Canvas for due dates    |
-|13 |  |  | See Canvas for due dates    |
+|9  | 16 Oct | Graphical User Interfaces | See Canvas for due dates  |
+|10 | 23 Oct | Files and Databases | See Canvas for due dates    |
+|11 | 30 Oct | Modifying Multimedia | See Canvas for due dates    |
+|12 | 6 Nov | __Midterm due on 9 Nov__ |   |
+|13 | 13 Nov | Programming Lab 1 | See Canvas for due dates    |
 |||__Break + Thanksgiving (20 - 24 Nov) - No classes__|
-|14 |  |  | See Canvas for due dates    |
-|15 |  |  | See Canvas for due dates    |
-|16 |  |  |__Final Project due on__
+|14 | 20 Nov | Programming Lab 2 | See Canvas for due dates    |
+|15 | 27 Nov |  | __Final Exam due on 8 Dec__    |
+|16 | 11 Dec |  |__Final Project due on 15 Dec__
 
 ## __Textbook__
 
