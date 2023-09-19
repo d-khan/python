@@ -2,6 +2,17 @@
 __This syllabus is for Honors Contract Students only__  
 
 ## __Course description__
+This is an introductory course in programming using the Python language and incorporating the
+fundamentals of object-oriented programming. Topics include the use and programming of the mouse,
+windows, forms, menus, dialog boxes, icons, buttons, text fields, files, graphics, and other components
+of the Windows environment. Students learn to analyze user needs and requirements, design the user
+interface, assign properties to objects in the user interface, code event procedures, test and debug
+completed programs and applications; and complete final user documentation. This course is intended
+for Computer and Information Sciences majors or anyone interested in the Python programming
+language.
+
+The students enrolled in the Honors Contract are expected to do independent research, extra assignments, and 1:1 online meetings with the professor. The student will be involved in Work-Based Learning activities in which students get in touch with career services, improve resume writing and interviewing skills, and get in touch with professionals in the relevant field.
+
 
 ## __Course information__
 
@@ -88,11 +99,13 @@ I recommend following the notes and resources provided on the course site in Can
 
 ## __Course evaluation schemes__
 
-| Evaluation type        | Out of 100 |
-|:-----------------------|:-------------|
-| Weekly lab assignments | 40          |
-| Discussions            | 20          |
-| Project x 2            | 40          |
+| Evaluation type           | Out of 100 |
+|:--------------------------|:-------------|
+| Weekly lab assignments    | 40           |
+| Research work and meetings |   15        |
+| Career-related activities |5|
+| Discussions               | 20           |
+| Project x 2               | 20           |
 
 ## __Late/due work__
 
