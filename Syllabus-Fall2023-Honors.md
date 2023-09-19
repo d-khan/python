@@ -1,4 +1,7 @@
-# Syllabus (CISC-179 Python Programming)
+# Syllabus (CISC-179 Python Programming) Honors Contract  
+__This syllabus is for Honors Contract Students only__  
+
+## __Course description__
 
 ## __Course information__
 
