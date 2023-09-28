@@ -13,6 +13,9 @@ language.
 
 The students enrolled in the Honors Contract are expected to do independent research, extra assignments, and 1:1 online meetings with the professor. The student will be involved in Work-Based Learning activities in which students get in touch with career services, improve resume writing and interviewing skills, and get in touch with professionals in the relevant field.
 
+## Student learning outcome
+- Demonstrate an ability to successfully follow a specification. Measurement Method: Development of classroom projects.  
+- Demonstrate an ability to successfully create electronic documents. Measurement Method: Performance on homework assignments. 
 
 ## __Course information__
 
