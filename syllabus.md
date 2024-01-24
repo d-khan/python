@@ -1,5 +1,10 @@
 # Syllabus (CISC-179 Python Programming)
 
+## __Course description__
+In this course, you will learn the universal concepts of computer programming, the syntax and semantics of the Python language, practical skills in resolving typical implementation challenges, how to use the most important elements of the Python Standard Library, how to install your runtime environment, how to design, develop, test, and debug your own Python programs.
+
+
+
 ## __Course information__
 
 |<div style="width:100px"></div> |                |
