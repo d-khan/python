@@ -1,21 +1,24 @@
 # Syllabus (CISC-179 Python Programming)
 
+## __Course description__
+In this course, you will learn the universal concepts of computer programming, the syntax and semantics of the Python language, practical skills in resolving typical implementation challenges, how to use the most important elements of the Python Standard Library, how to install your runtime environment, how to design, develop, test, and debug your own Python programs.
+
 ## __Course information__
 
 |<div style="width:100px"></div> |                |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-179 Python Programming|
-|   Year                        |   Fall 2023-24|
-|   Class ID                    |   40861|
+|   Year                        |   Spring 2024|
+|   Class ID                    |   53477|
 |   Section                     |   3001|
 |   Location                    |   Online|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Aug 21 – Dec 16 (16 weeks)|
+|   Duration                    |   Jan 29 – May 25 (16 weeks)|
 |   Professor #1                |   Dr Danish Khan|
-|   Office hours #1             |   Mon 9:30-10:30 am - Online (Booking required via Canvas Messaging)|
+|   Office hours #1             |   Booking required via Canvas Messaging|
 |   Professor #2                |   Rabb Muhammad |
 |   Office hours #2             |   
-|   Email #2                    |    |
+|   Email #2                    |    
 
 >__Note:__ Two Professors deliver the Python course. Prof Danish will cover materials from weeks 1-8, and Prof Rabb will cover materials from weeks 9-16.
 
@@ -33,16 +36,18 @@ __Rabb Muhammad:__
 
 |<div style="width:100px"></div> ||
 |:----------------------|:--------------|
-|21 Aug                 |   Fall 2023 Primary 16-Week Session Begins |
-|1 Sep                  |   __Student Add/Drop:__ Deadline to drop classes with no "W" recorded|
-|1 Sep                  |   Deadline to drop classes and be eligible for a refund of Enrollment Fee and/or all applicable fees.
-|4 Sep                  |   __Labor Day (CAMPUS CLOSED)__ |
-|5 Sep                  |   Instructor Drop/Census: All drops must be submitted by Noon
-|27 Oct                 |   __Pass/No Pass:__ Deadline for the student to select the P/NP option. __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
-|10 Nov                 |   __Veterans Day (CAMPUS CLOSED)__ |
-|23-24 Nov              |   __Thanksgiving (CAMPUS CLOSED)__ |
-|16 Dec                 |   Session ends|
-|5 Jan 2024             | __Grades:__ Deadline for instructors to submit final grades|
+|29 Jan                 |   Spring 2024 16-Week Session Begins |
+|9 Feb                  |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
+|                       |   __Student Drop:__ Deadline to drop class with no "W" recorded. |
+|                       |   __Refund Date:__ Deadline to drop classes and be eligible for refund of Enrollment Fee and/or all applicable fees.|
+|12 Feb                 |   __Instructor Drop/Census:__ All drops must be submitted by Noon
+|16-19 Feb              |   __President's Weekend (CAMPUS CLOSED)__ |
+|25-29 Mar              |   __Spring Break__
+|29 Mar                 |   __Cesar Chavez Day (CAMPUS CLOSED)__
+|12 Apr                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
+|25 May                 |   Session end|
+|27 May                 |   __Memorial Day (CAMPUS CLOSED)__ |
+|31 May                 |   __Grades:__ Deadline for instructors to submit final grades|
 
 ## __Course outline and schedule__
 
@@ -75,7 +80,7 @@ I recommend following the notes and resources provided on the course site in Can
 - Minimum Laptop/desktop requirements: Intel/AMD CPU, 4GB DDR3/4 generation RAM, 40+GB hard drive, 64-bit OS (Windows/OSX), Microphone, and high-speed Internet.
 - SD Miramar students may check out laptops from the library, dependent on availability at <https://sdmiramar.edu/library/materials-checkout>
 - Students may be eligible for emergency broadband internet discounts at Affordable Connectivity Program <https://www.fcc.gov/acp>
-- PyCharm Professional (free with 1 year student license)
+- PyCharm CE <https://www.jetbrains.com/pycharm/download/other.html>
 
 ## __Grading scheme__
 
