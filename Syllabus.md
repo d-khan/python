@@ -57,10 +57,10 @@ __Rabb Muhammad:__
 |2  |5 Feb |Data types, variables, basic I/O operations and basic operators | Solve mathematical equations | 10 Feb |
 |3  |12 Feb  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | Write a code and implement a given algorithm| 17 Feb |
 |4  |19 Feb |Functions, tuples, dictionaries, data processing and exceptions | Create a vaccination table using a nested dictionary data structure | 24 Feb |
-|5  |26 Feb |Modules, Packages and PIP | See Canvas for due dates  |
-|6  |4 Mar |Strings, string and list methods, and exceptions | See Canvas for due dates |
-|7  |11 Mar |Object-Oriented Programming | See Canvas for due dates |
-|8  |18 Mar |Project work|
+|5  |26 Feb |Modules, Packages and PIP | Writing your first module | 2 Mar  |
+|6  |4 Mar |Strings, string and list methods, and exceptions | Text parding | 9 Mar |
+|7  |11 Mar |Object-Oriented Programming | Apply OOP concepts | 16 Mar |
+|8  |18 Mar |Project work| 23 Mar |
 |||__Spring break (25 - 29 Mar) - No classes__|
 |9  | 1 Apr | Graphical User Interfaces | See Canvas for due dates  |
 |10 | 8 Apr | Files and Databases | See Canvas for due dates    |
@@ -72,8 +72,10 @@ __Rabb Muhammad:__
 |16 | 20 May |  |__Final Project due on 15 Dec__
 
 ## __Textbook__
+The following text book is used for this course:  
+The Quick Python Book by Naomi Ceder, 3rd edition (June 14 2018), Manning, ISBN: 978-1617294037
 
-I recommend following the notes and resources provided on the course site in Canvas. Create a free account in OpenEDG and enroll in “Python Essentials 1” and “Python Essentials 2”.
+I recommend the notes and resources provided on the course site in Canvas. Create a free account in OpenEDG and enroll in “Python Essentials 1” and “Python Essentials 2”.
 
 ## __Software and hardware resources__
 
