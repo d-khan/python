@@ -62,12 +62,12 @@ __Rabb Muhammad:__
 |7  |11 Mar |Object-Oriented Programming | Apply OOP concepts | 16 Mar |
 |8  |18 Mar |Project work| 23 Mar |
 |||__Spring break (25 - 29 Mar) - No classes__|
-|9  | 1 Apr | Graphical User Interfaces | See Canvas for due dates  |
-|10 | 8 Apr | Files and Databases | See Canvas for due dates    |
-|11 | 15 Apr | Modifying Multimedia | See Canvas for due dates    |
+|9  | 1 Apr | Graphical User Interfaces | | See Canvas for due dates  |
+|10 | 8 Apr | Files and Databases | | See Canvas for due dates    |
+|11 | 15 Apr | Modifying Multimedia |  |See Canvas for due dates    |
 |12 | 22 Apr | __Midterm due on 9 Nov__ |   |
-|13 | 29 Apr | Programming Lab 1 | See Canvas for due dates    |
-|14 | 6 May | Programming Lab 2 | See Canvas for due dates    |
+|13 | 29 Apr | Programming Lab 1 | |See Canvas for due dates    |
+|14 | 6 May | Programming Lab 2 | |See Canvas for due dates    |
 |15 | 13 May |  | __Final Exam due on 8 Dec__    |
 |16 | 20 May |  |__Final Project due on 15 Dec__
 
