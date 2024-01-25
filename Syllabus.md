@@ -68,8 +68,8 @@ __Rabb Muhammad:__
 |12 | 22 Apr | __Midterm due on 9 Nov__ |   |
 |13 | 29 Apr | Programming Lab 1 | |See Canvas for due dates    |
 |14 | 6 May | Programming Lab 2 | |See Canvas for due dates    |
-|15 | 13 May |  | __Final Exam due on 8 Dec__    |
-|16 | 20 May |  |__Final Project due on 15 Dec__
+|15 | 13 May |  __Final Exam due on 8 Dec__    ||
+|16 | 20 May | __Final Project due on 15 Dec__ ||
 
 ## __Textbook__
 The following text book is used for this course:  
