@@ -65,11 +65,11 @@ __Rabb Muhammad:__
 |9  | 1 Apr | Graphical User Interfaces | | See Canvas for due dates  |
 |10 | 8 Apr | Files and Databases | | See Canvas for due dates    |
 |11 | 15 Apr | Modifying Multimedia |  |See Canvas for due dates    |
-|12 | 22 Apr | __Midterm due on 9 Nov__ |   |
+|12 | 22 Apr |  |   |
 |13 | 29 Apr | Programming Lab 1 | |See Canvas for due dates    |
 |14 | 6 May | Programming Lab 2 | |See Canvas for due dates    |
-|15 | 13 May |  __Final Exam due on 8 Dec__    ||
-|16 | 20 May | __Final Project due on 15 Dec__ ||
+|15 | 13 May |  __Final Exam due on__    ||
+|16 | 20 May | __Final Project due on__ ||
 
 ## __Textbook__
 The following text book is used for this course:  
