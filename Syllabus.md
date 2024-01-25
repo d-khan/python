@@ -51,25 +51,25 @@ __Rabb Muhammad:__
 
 ## __Course outline and schedule__
 
-|Week|<div style="width:50px">Date</div>|Topics | Deadlines                 |
-|-|--|--|---------------------------|
-|1  |21 Aug |Introduction to Python | See Canvas for due dates  |
-|2  |28 Aug |Data types, variables, basic I/O operations and basic operators | See Canvas for due dates |
-|3  |4 Sep  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | See Canvas for due dates |
-|4  |11 Sep |Functions, tuples, dictionaries, data processing and exceptions | See Canvas for due dates |
-|5  |18 Sep |Modules, Packages and PIP | See Canvas for due dates  |
-|6  |25 Sep |Strings, string and list methods, and exceptions | See Canvas for due dates |
-|7  |2 Oct |Object-Oriented Programming | See Canvas for due dates |
-|8  |9 Oct |__Project due on 15 Oct__|
-|9  | 16 Oct | Graphical User Interfaces | See Canvas for due dates  |
-|10 | 23 Oct | Files and Databases | See Canvas for due dates    |
-|11 | 30 Oct | Modifying Multimedia | See Canvas for due dates    |
-|12 | 6 Nov | __Midterm due on 9 Nov__ |   |
-|13 | 13 Nov | Programming Lab 1 | See Canvas for due dates    |
-|||__Break + Thanksgiving (20 - 24 Nov) - No classes__|
-|14 | 20 Nov | Programming Lab 2 | See Canvas for due dates    |
-|15 | 27 Nov |  | __Final Exam due on 8 Dec__    |
-|16 | 11 Dec |  |__Final Project due on 15 Dec__
+|Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
+|-|--|--|---|----|
+|1  |29 Jan |Introduction to Python | Python vs different programming languages  | 3 Feb
+|2  |5 Feb |Data types, variables, basic I/O operations and basic operators | Solve mathematical equations | 10 Feb |
+|3  |12 Feb  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | Write a code and implement a given algorithm| 17 Feb |
+|4  |19 Feb |Functions, tuples, dictionaries, data processing and exceptions | Create a vaccination table using a nested dictionary data structure | 24 Feb |
+|5  |26 Feb |Modules, Packages and PIP | See Canvas for due dates  |
+|6  |4 Mar |Strings, string and list methods, and exceptions | See Canvas for due dates |
+|7  |11 Mar |Object-Oriented Programming | See Canvas for due dates |
+|8  |18 Mar |Project work|
+|||__Spring break (25 - 29 Mar) - No classes__|
+|9  | 1 Apr | Graphical User Interfaces | See Canvas for due dates  |
+|10 | 8 Apr | Files and Databases | See Canvas for due dates    |
+|11 | 15 Apr | Modifying Multimedia | See Canvas for due dates    |
+|12 | 22 Apr | __Midterm due on 9 Nov__ |   |
+|13 | 29 Apr | Programming Lab 1 | See Canvas for due dates    |
+|14 | 6 May | Programming Lab 2 | See Canvas for due dates    |
+|15 | 13 May |  | __Final Exam due on 8 Dec__    |
+|16 | 20 May |  |__Final Project due on 15 Dec__
 
 ## __Textbook__
 
@@ -102,31 +102,24 @@ I recommend following the notes and resources provided on the course site in Can
 
 ## __Late/due work__
 
-You must submit your coursework by the due date indicated on the Schedule of Assignments shown in Canvas. Some modules may require more time to complete than others. It is your responsibility to allocate the time needed to complete your work. Be sure to begin your work before the due date. __Late work is not accepted.__
+Please submit your coursework by the due date. The assignment deadlines are posted in the syllabus and also shown in Canvas. 
+Some assignments may require more time to complete than others. It's your responsibility to allocate the time needed to finish your work. 
+Be sure to begin your work before the due date. The late work is deducted 25% when submitted within 24 hours past the due date. 
+Any work submitted past 24 hours of the due date will be graded 0.
 
 ## __Attendance/Absences__
 
-- It is the student’s responsibility to drop all classes in which they are no longer participating __(for online classes)__.
-- It is the student’s responsibility to drop all classes in which they are no longer attending __(for on campus classes)__.
-- It is the instructor’s discretion to withdraw a student after the add/drop deadline due to excessive absences.
-- Students who remain enrolled in a class beyond the published withdrawal deadline, as stated in the class
-schedule, will receive an evaluative letter grade in this class. (A, B, C, D, F, P, NP)
+-  It is the student’s responsibility to drop all classes in which they are no longer participating/attending.
+-  It is the instructor’s discretion to withdraw a student after the add/drop deadline due to absences (more than 75%).
+- __(For online classes):__ Students who have not logged into the course for three days before the add/drop deadline will be dropped for non-attendance. 
+- __(For inperson classes):__ The instructor will drop the student if a student is absent in the first two weeks.
+- Students who remain enrolled in a class beyond the published withdrawal deadline, as stated in the class schedule, will receive an evaluative letter grade in this class. (A, B, C, D, F, P, NP)
 
 ## __Accommodating Students with Disabilities__
 
-- Students with disabilities who may need academic accommodations are encouraged to discuss their authorized
-accommodations from Disability Support Programs and Services (DSPS) with their professors early in the semester so
-that accommodations may be implemented as soon as possible.
-- The faculty member will work with the DSPS Office to ensure that proper accommodations are made for each student.
-By law, it is up to the DSPS Office, through the interactive process with the student, to determine which
-accommodations are appropriate, not the instructor. This includes accommodations in a clinical setting.
-- Students that need evacuation assistance during campus emergencies should also meet with the instructor as soon as
-possible to ensure the health and safety of all students.
+Students with disabilities who may need academic accommodations should contact me as soon as possible.  You and I will work with the Disability Support Programs and Services (DSPS) department to identify your appropriate academic accommodations for this course. 
 
-> For more information, you may contact the DSPS Office on your campus or the website at
-<https://www.sdccd.edu/about/departments-and-offices/student-services-department/dsps/index.aspx> or refer to
-Administrative Procedure, AP 3105.1 Academic Accommodations and Disability Discrimination for Students with
-Disabilities.
+> DSPS is located in the K1 Student Services building, room K1-204 and can be reached at (619) 388-7312 or by email at miradsps@sdccd.edu. To register or to learn more about their services, please visit the DSPS website at www.sdmiramar.edu/dsps.
 
 ## __Undocumented & Immigrant Student Services__
 
@@ -135,21 +128,21 @@ The Miramar Dreamers Support Office provides programs and services to undocument
 
 > Visit the Dreamers Support Office in the Student Services Building, room K1-304 (third floor), or online at <https://sdmiramar.edu/services/dreamers>. Schedule an appointment at <https://bit.ly/dreamerappt>.
 
-## __Cheating/Plagiarism__
-
-Students are expected to be honest and ethical at all times in the pursuit of academic goals. Students who are found to be in
-violation of Administrative Procedure 3100.3 Honest Academic Conduct, will receive a grade of zero on the assignment, quiz, or exam in question and may be referred for disciplinary action in accordance with Administrative Procedure 3100.2, Student Disciplinary Procedures.
-
 ## __Honest Academic Conduct__
 
-- Students are expected to adhere to the Honest Academic Conduct policy at all times. Students who violate the Honest
-Academic Conduct policy may be removed from class by the faculty for the class meeting in which the behavior occurred, and the next class meeting.
-- __For online classes:__ Student access to class is removed for one week (5 instructional days).
-- Acceptance of make-up work during the removal will be decided by the instructor based on the incident.
-- Incidents involving removal of a student from class will be reported to the college disciplinary officer for follow up.
+You are expected to be honest and ethical at all times in the pursuit of academic goals. Students who are found to be in violation of Administrative Procedure 3100.3, Honest Academic Conduct, will receive a grade of zero on the assignment in question and may be referred for disciplinary action in accordance with Administrative Procedure 3100.2, Student Disciplinary Procedures.  
 
-> The Honest Academic Conduct policy can be found in Board of Trustees Policy, BP 5500, Student Rights, Responsibilities,
-Campus Safety and Administrative Due Process posted on the District website at:
+Plagiarism — to take and pass off as one’s own work or ideas of another — is a form of academic dishonesty.
+Plagiarism is any one of the following: 
+- Verbatim copying without proper acknowledgment on term papers, homework or tests/exams;
+- Paraphrasing without proper acknowledgment;
+- Putting together a “patchwork” paper from diverse sources, without proper acknowledgment of those sources;
+- Unacknowledged appropriation of information or of someone else’s ideas.
+
+Acts of plagiarism will result in no credit awarded for the assignment; remedial instruction; academic or
+administrative sanctions; and/or other consequences. 
+
+> The Honest Academic Conduct policy can be found in Board of Trustees Policy, BP 5500, Student Rights, Responsibilities, Campus Safety and Administrative Due Process posted on the District website at:
 <https://www.sdccd.edu/docs/District/procedures/Student%20Services/AP%203100_03.pdf>  
 ____
-Last updated on Aug 2023
+Last updated on Jan 2023
