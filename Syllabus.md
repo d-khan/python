@@ -60,7 +60,7 @@ __Rabb Muhammad:__
 |5  |26 Feb |Modules, Packages and PIP | Writing your first module | 2 Mar  |
 |6  |4 Mar |Strings, string and list methods, and exceptions | Text parding | 9 Mar |
 |7  |11 Mar |Object-Oriented Programming | Apply OOP concepts | 16 Mar |
-|8  |18 Mar |Project work| 23 Mar |
+|8  |18 Mar |Project work| | 23 Mar |
 |||__Spring break (25 - 29 Mar) - No classes__|
 |9  | 1 Apr | Graphical User Interfaces | | See Canvas for due dates  |
 |10 | 8 Apr | Files and Databases | | See Canvas for due dates    |
