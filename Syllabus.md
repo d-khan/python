@@ -17,8 +17,8 @@ In this course, you will learn the universal concepts of computer programming, t
 |   Professor #1                |   Dr Danish Khan|
 |   Office hours #1             |   Booking required via Canvas Messaging|
 |   Professor #2                |   Rabb Muhammad |
-|   Office hours #2             |   
-|   Email #2                    |    
+|   Office hours #2             |   Booking required via Canvas Messaging|
+|   Email #2                    |   rmuhammad@sdccd.edu
 
 >__Note:__ Two Professors deliver the Python course. Prof Danish will cover materials from weeks 1-8, and Prof Rabb will cover materials from weeks 9-16.
 
@@ -30,7 +30,7 @@ In this course, you will learn the universal concepts of computer programming, t
 
 __Danish Khan:__ The best way to reach me is via my email __Canvas Messaging System__  If I have not responded to your message within 24 hours, Monday through Friday, or within 48 hours on the weekend, then please resend the message to my email. Messages sent on Friday evening, Saturday, Sunday, or during holidays may have a slower response time.
 
-__Rabb Muhammad:__ 
+__Rabb Muhammad:__ The best way to reach me is via direct message on Canvas. You can also reach me at rmuhammad@sdccd.edu. Please allow for 48 hours between responses.
 
 ## __Important dates/deadline__
 
@@ -62,14 +62,14 @@ __Rabb Muhammad:__
 |7  |11 Mar |Object-Oriented Programming | Apply OOP concepts | 16 Mar |
 |8  |18 Mar |Project work| | 23 Mar |
 |||__Spring break (25 - 29 Mar) - No classes__|
-|9  | 1 Apr | Graphical User Interfaces | | See Canvas for due dates  |
-|10 | 8 Apr | Files and Databases | | See Canvas for due dates    |
-|11 | 15 Apr | Modifying Multimedia |  |See Canvas for due dates    |
-|12 | 22 Apr |  |   |
-|13 | 29 Apr | Programming Lab 1 | |See Canvas for due dates    |
-|14 | 6 May | Programming Lab 2 | |See Canvas for due dates    |
-|15 | 13 May |  __Final Exam due on__    ||
-|16 | 20 May | __Final Project due on__ ||
+|9  | 1 Apr | Graphical User Interfaces | tkinter | 7 Apr  |
+|10 | 8 Apr | Files and Databases | Creating files and CSV parsing | 14 Apr |
+|11 | 15 Apr | Modifying Multimedia | Python Image Library | 21 Apr |
+|12 | 22 Apr | Programming Lab 1 | 28 April |
+|13 | 29 Apr | __Final Project Part 1__ | | 5 May |
+|14 | 6 May | Programming Lab 2 | 12 May |
+|15 | 13 May |  __Final Exam__    | 19 May |
+|16 | 20 May | __Final Project__ | 25 May |
 
 ## __Textbook__
 The following textbook is used for this course:  
@@ -155,4 +155,4 @@ You are encouraged to bring reusable drink containers to school (and fill them a
 Thank you for doing your part to conserve resources in your academic life and keeping our campus environment clean.   
 
 ____
-Last updated on Jan 2023
+Last updated on Jan 2024
