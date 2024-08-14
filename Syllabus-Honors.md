@@ -17,21 +17,26 @@ You can find more information about the Honors Contract [here](https://sdmiramar
 |<div style="width:100px"></div> |                |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-179 Python Programming|
-|   Year                        |   Spring 2024|
-|   Class ID                    |   53477|
+|   Year                        |   Fall 2024|
+|   Class ID                    |   73939|
 |   Section                     |   3001|
 |   Location                    |   Online|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Jan 29 – May 25 (16 weeks)|
+|   Duration                    |   Aug 19 – Dec 16 (16 weeks)|
 |   Professor #1                |   Dr Danish Khan|
-|   Office hours #1             |   Mon, Tue, Wed & Thu 12:35-1:00 pm (Room M-103)|
-|                               |   Mon & Wed 8:30 - 9:30 am in Zoom (Meeting ID: 835 8008 1648)|
+|   Office hours #1             |   Mon & Wed 12:35 - 1:35 pm (Room M-110)| 
+|                               |   Tue & Thu 12:35 - 1:35 pm (Room M-103)|
+|                               |   Mon 8:00 - 9:00 am in Zoom (https://sdccd-edu.zoom.us/j/84358409903)|
 |   Contact #1                  |   Room M-107P, Office phone: 619-388-7152, Email: dkhan@sdccd.edu|
 |   Professor #2                |   Rabb Muhammad |
-|   Office hours #2             |   
-|   Email #2                    |    
+|   Office hours #2             |   Booking required via Canvas Messaging|
+|   Email #2                    |   rmuhammad@sdccd.edu|
 
->__Note:__ Two Professors deliver the Python course. Prof Danish will cover materials from weeks 1-8, and Prof Rabb will cover materials from weeks 9-16.
+>__Note:__ Two professors delivered the Python course. Prof Danish will cover materials from weeks 1-8, and Prof Rabb will cover materials from weeks 9-16.
+
+## Student learning outcome
+- Demonstrate an ability to successfully follow a specification. Measurement Method: Development of classroom projects.  
+- Demonstrate an ability to successfully create electronic documents. Measurement Method: Performance on homework assignments. 
 
 ## Instructor communication policy
 
@@ -41,53 +46,55 @@ __Rabb Muhammad:__
 
 ## Important dates/deadline
 
-|<div style="width:100px"></div> ||
+|<div style="width500:px"></div> ||
 |:----------------------|:--------------|
-|29 Jan                 |   Spring 2024 16-Week Session Begins |
-|9 Feb                  |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
+|19 Aug                 |   Fall 2024 16-Week Session Begins |
+|30 Aug                 |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
 |                       |   __Student Drop:__ Deadline to drop class with no "W" recorded. |
 |                       |   __Refund Date:__ Deadline to drop classes and be eligible for refund of Enrollment Fee and/or all applicable fees.|
-|12 Feb                 |   __Instructor Drop/Census:__ All drops must be submitted by Noon
-|16-19 Feb              |   __President's Weekend (CAMPUS CLOSED)__ |
-|25-29 Mar              |   __Spring Break__
-|29 Mar                 |   __Cesar Chavez Day (CAMPUS CLOSED)__
-|12 Apr                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
-|25 May                 |   Session end|
-|27 May                 |   __Memorial Day (CAMPUS CLOSED)__ |
-|31 May                 |   __Grades:__ Deadline for instructors to submit final grades|
+|2 Sep                  |   __Labor Day (CAMPUS CLOSED)__ |
+|3 Sep                  |   __Instructor Drop/Census:__ All drops must be submitted by Noon
+|25 Oct                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
+|11 Nov                 |   __Veterans Day (CAMPUS CLOSED)__ |
+|25 Nov - 1 Dec         |   __Thanksgiving (NO CLASSES)__ |
+|16 Dec                 |   __Session end__|
+|3 Jan 2025             |   __Grades:__ Deadline for instructors to submit final grades|
+
+Please visit the [district website](https://www.sdccd.edu/students/dates-and-deadlines/index.aspx) to learn more about the deadlines.
 
 ## Course outline and schedule
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
-|1  |29 Jan |Introduction to Python | Python vs different programming languages  | 3 Feb
-|2  |5 Feb |Data types, variables, basic I/O operations and basic operators | Solve mathematical equations | 10 Feb |
-|3  |12 Feb  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | Write a code and implement a given algorithm| 17 Feb |
-|4  |19 Feb |Functions, tuples, dictionaries, data processing and exceptions | Create a vaccination table using a nested dictionary data structure | 24 Feb |
-|5  |26 Feb |Modules, Packages and PIP | Writing your first module | 2 Mar  |
-|6  |4 Mar |Strings, string and list methods, and exceptions | Text parsing | 9 Mar |
-|7  |11 Mar |Object-Oriented Programming | Apply OOP concepts | 16 Mar |
-|8  |18 Mar |Project work| | 23 Mar |
-|||__Spring break (25 - 29 Mar) - No classes__|
-|9  | 1 Apr | Graphical User Interfaces | | See Canvas for due dates  |
-|10 | 8 Apr | Files and Databases | | See Canvas for due dates    |
-|11 | 15 Apr | Modifying Multimedia |  |See Canvas for due dates    |
-|12 | 22 Apr |  |   |
-|13 | 29 Apr | Programming Lab 1 | |See Canvas for due dates    |
-|14 | 6 May | Programming Lab 2 | |See Canvas for due dates    |
-|15 | 13 May |  __Final Exam due on__    ||
-|16 | 20 May | __Final Project due on__ ||
+|1  |19 Aug |Introduction to Python | Python vs different programming languages  | 24 Aug |
+|2  |26 Aug |Data types, variables, basic I/O operations and basic operators | Solve mathematical equations | 31 Aug |
+|3  |2 Sep  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | Write a code and implement a given algorithm| 7 Sep |
+|4  |9 Sep  |Functions, tuples, dictionaries, data processing and exceptions | Create a vaccination table using a nested dictionary data structure | 14 Sep |
+|5  |16 Sep |Modules, Packages and PIP | Writing your first module | 21 Sep  |
+|6  |23 Sep |Strings, string and list methods, and exceptions | Text parsing | 28 Sep |
+|7  |30 Sep |Object-Oriented Programming | Apply OOP concepts | 5 Oct |
+|8  |7 Oct |__Project work__| | 12 Oct |
+|9  |14 Oct | Graphical User Interfaces | tkinter | xxx  |
+|10 |21 Oct | Files and Databases | Creating files and CSV parsing | xxx |
+|11 |28 Oct | Modifying Multimedia | Python Image Library | xxx |
+|12 |4 Nov | Programming Lab 1 | xxx |
+|13 |11 Nov | __Final Project Part 1__ | | xxx |
+|14 |18 Nov | Programming Lab 2 | xxx |
+|||__Thanksgiving week (25 Nov - 1 Dec) - No classes__|
+|15 |2 Dec |  __Final Exam__    | xxx |
+|16 |9 Dec | __Final Project__ | xxx |
 
 ## Textbook
 
 The following textbook is used for this course:  
 The Quick Python Book by Naomi Ceder, 3rd edition (June 14 2018), Manning, ISBN: 978-1617294037
 
+I recommend the notes and resources provided on the course site in Canvas. Create a free account in OpenEDG and enroll in “Python Essentials 1” and “Python Essentials 2”.
+
 ## Software and hardware resources
 
 - Minimum Laptop/desktop requirements: Intel/AMD CPU, 4GB DDR3/4 generation RAM, 40+GB hard drive, 64-bit OS (Windows/OSX), Microphone, and high-speed Internet.
 - SD Miramar students may check out laptops from the library, dependent on availability at <https://sdmiramar.edu/library/materials-checkout>
-- Students may be eligible for emergency broadband internet discounts at Affordable Connectivity Program <https://www.fcc.gov/acp>
 - PyCharm Professional (free with 1 year student license)
 
 ## Grading scheme
@@ -105,8 +112,8 @@ The Quick Python Book by Naomi Ceder, 3rd edition (June 14 2018), Manning, ISBN:
 | Evaluation type           | Out of 100 |
 |:--------------------------|:-------------|
 | Weekly lab assignments    | 40           |
-| Research work and meetings |   15        |
-| Career-related activities |5|
+| Research work and meetings| 15           |
+| Career-related activities | 5            |
 | Discussions               | 20           |
 | Project x 2               | 20           |
 
@@ -118,7 +125,7 @@ Be sure to begin your work before the due date. The late work is deducted 25% wh
 Any work submitted past 24 hours of the due date will be graded 0.
 
 ## Attendance/Absences
-
+**Please note that regularly logging into the course is mandatory to avoid dropping or withdrawing from the course**.
 -  It is the student’s responsibility to drop all classes in which they are no longer participating/attending.
 -  It is the instructor’s discretion to withdraw a student after the add/drop deadline due to excessive absences.
 - __(For online classes):__ Students who have not logged into the course for three days before the add/drop deadline will be dropped for non-attendance. 
@@ -159,4 +166,4 @@ You are encouraged to bring reusable drink containers to school (and fill them a
 Thank you for doing your part to conserve resources in your academic life and keeping our campus environment clean.   
 
 ____
-Last updated on Jan 2024
+Last updated on Aug 2024
