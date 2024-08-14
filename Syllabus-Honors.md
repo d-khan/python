@@ -42,6 +42,8 @@ You can find more information about the Honors Contract [here](https://sdmiramar
 
 __Danish Khan:__ The best way to reach me is via my email __Canvas Messaging System__  If I have not responded to your message within 24 hours, Monday through Friday, or within 48 hours on the weekend, then please resend the message to my email. Messages sent on Friday evening, Saturday, Sunday, or during holidays may have a slower response time.
 
+__Rabb Muhammad:__ The best way to reach me is via direct message on Canvas. You can also reach me at rmuhammad@sdccd.edu. Please allow for 48 hours between responses.
+
 __Rabb Muhammad:__ 
 
 ## Important dates/deadline
