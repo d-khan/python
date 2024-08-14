@@ -44,8 +44,6 @@ __Danish Khan:__ The best way to reach me is via my email __Canvas Messaging Sys
 
 __Rabb Muhammad:__ The best way to reach me is via direct message on Canvas. You can also reach me at rmuhammad@sdccd.edu. Please allow for 48 hours between responses.
 
-__Rabb Muhammad:__ 
-
 ## Important dates/deadline
 
 |<div style="width500:px"></div> ||
