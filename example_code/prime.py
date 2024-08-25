@@ -1,3 +1,4 @@
+# slight error in the prime number generation. I will update here. This is a general idea.
 # declaration or setting parameters
 i = 1
 list = [i for i in range(3, 400, 2)]
