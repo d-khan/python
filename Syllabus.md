@@ -65,15 +65,15 @@ Please visit the [district website](https://www.sdccd.edu/students/dates-and-dea
 |6  |23 Sep |Strings, string and list methods, and exceptions | Text parsing | 28 Sep |
 |7  |30 Sep |Object-Oriented Programming | Apply OOP concepts | 5 Oct |
 |8  |7 Oct |__Project work__| | 12 Oct |
-|9  |14 Oct | Graphical User Interfaces | tkinter | xxx  |
-|10 |21 Oct | Files and Databases | Creating files and CSV parsing | xxx |
-|11 |28 Oct | Modifying Multimedia | Python Image Library | xxx |
-|12 |4 Nov | Programming Lab 1 | xxx |
-|13 |11 Nov | __Final Project Part 1__ | | xxx |
-|14 |18 Nov | Programming Lab 2 | xxx |
+|9  |14 Oct | Graphical User Interfaces | tkinter | 19 Oct  |
+|10 |21 Oct | Files and Databases | Creating files and CSV parsing | 26 Oct |
+|11 |28 Oct | Modifying Multimedia | Python Image Library | 2 Sep |
+|12 |4 Nov | Programming Lab 1 | 9 Nov |
+|13 |11 Nov | __Final Project Part 1__ | | 16 Nov |
+|14 |18 Nov | Programming Lab 2 | 23 Nov |
 |||__Thanksgiving week (25 Nov - 1 Dec) - No classes__|
-|15 |2 Dec |  __Final Exam__    | xxx |
-|16 |9 Dec | __Final Project__ | xxx |
+|15 |2 Dec |  __Final Exam__    | 7 Dec |
+|16 |9 Dec | __Final Project__ | 16 Dec |
 
 ## Textbook
 The following textbook is used for this course:  
