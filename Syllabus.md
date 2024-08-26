@@ -68,12 +68,12 @@ Please visit the [district website](https://www.sdccd.edu/students/dates-and-dea
 |9  |14 Oct | Graphical User Interfaces | tkinter | 19 Oct  |
 |10 |21 Oct | Files and Databases | Creating files and CSV parsing | 26 Oct |
 |11 |28 Oct | Modifying Multimedia | Python Image Library | 2 Sep |
-|12 |4 Nov | Programming Lab 1 | 9 Nov |
+|12 |4 Nov | Programming Lab 1 | | 9 Nov
 |13 |11 Nov | __Final Project Part 1__ | | 16 Nov |
-|14 |18 Nov | Programming Lab 2 | 23 Nov |
+|14 |18 Nov | Programming Lab 2 |  | 23 Nov
 |||__Thanksgiving week (25 Nov - 1 Dec) - No classes__|
-|15 |2 Dec |  __Final Exam__    | 7 Dec |
-|16 |9 Dec | __Final Project__ | 16 Dec |
+|15 |2 Dec |  __Final Exam__    |  | 7 Dec
+|16 |9 Dec | __Final Project__ |  | 16 Dec
 
 ## Textbook
 The following textbook is used for this course:  
