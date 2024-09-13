@@ -70,7 +70,7 @@ Please visit the [district website](https://www.sdccd.edu/students/dates-and-dea
 |11 |28 Oct | Modifying Multimedia | Python Image Library | 3 Nov |
 |12 |4 Nov | Programming Lab 8 | | 10 Nov |
 |13 |11 Nov | __Final Project Part 1__ | | 17 Nov |
-|14 |18 Nov | Midterm Exam |  | 24 Nov |
+|14 |18 Nov | Midterm Project |  | 24 Nov |
 |||__Thanksgiving week (25 Nov - 1 Dec) - No classes__|
 |15 |2 Dec |  __Final Exam__    |  | 8 Dec
 |16 |9 Dec | __Final Project Part 2__ |  | 16 Dec
