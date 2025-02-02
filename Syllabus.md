@@ -80,7 +80,9 @@ Please visit the [Academic Semester Calendars and Key Dates](https://www.sdccd.e
 The following textbook is used for this course:  
 The Quick Python Book by Naomi Ceder, 3rd edition (June 14 2018), Manning, ISBN: 978-1617294037
 
-I recommend the notes and resources provided on the course site in Canvas. Create a free account in OpenEDG and enroll in “Python Essentials 1” and “Python Essentials 2”.
+To access free resources, you can create a complimentary account on OpenEDG and enroll in “Python Essentials 1” and “Python Essentials 2,” though this step is optional.
+
+I recommend reviewing the notes and resources available on the course site in Canvas.
 
 ## Software and hardware resources
 
@@ -155,4 +157,4 @@ You are encouraged to bring reusable drink containers to school (and fill them a
 Thank you for doing your part to conserve resources in your academic life and keeping our campus environment clean.   
 
 ____
-Last updated on Aug 2024
+Last updated on Jan 2025
