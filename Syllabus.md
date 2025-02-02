@@ -8,16 +8,15 @@ In this course, you will learn the universal concepts of computer programming, t
 |<div style="width:100px"></div> |                |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-179 Python Programming|
-|   Year                        |   Fall 2024|
-|   Class ID                    |   73939|
+|   Year                        |   Spring 2025|
+|   Class ID                    |   83548|
 |   Section                     |   3001|
 |   Location                    |   Online|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Aug 19 – Dec 16 (16 weeks)|
+|   Duration                    |   Feb 3 – Jun 2 (16 weeks)|
 |   Professor #1                |   Dr Danish Khan|
-|   Office hours #1             |   Mon & Wed 12:35 - 1:35 pm (Room M-110)| 
-|                               |   Tue & Thu 12:35 - 1:35 pm (Room M-103)|
-|                               |   Mon 6:00 - 7:00 pm in Zoom (https://sdccd-edu.zoom.us/j/84358409903)|
+|   Office hours #1             |   Mon 12:30 pm - 2:30 pm in Zoom (https://sdccd-edu.zoom.us/j/89694884444) or in-person (Room M-107P)| 
+|                               |   Tue 12:30 pm - 2:30 pm in Zoom (https://sdccd-edu.zoom.us/j/81215489501) or in-person (Room M-107P)|
 |   Contact #1                  |   Room M-107P, Office phone: 619-388-7152, Email: dkhan@sdccd.edu|
 |   Professor #2                |   Rabb Muhammad |
 |   Office hours #2             |   Booking required via Canvas Messaging|
@@ -26,8 +25,9 @@ In this course, you will learn the universal concepts of computer programming, t
 >__Note:__ Two professors delivered the Python course. Prof Danish will cover materials from weeks 1-8, and Prof Rabb will cover materials from weeks 9-16.
 
 ## Student learning outcome
-- Demonstrate an ability to successfully follow a specification. Measurement Method: Development of classroom projects.  
-- Demonstrate an ability to successfully create electronic documents. Measurement Method: Performance on homework assignments. 
+- Apply algorithmic and mathematical reasoning to solve a wide range of computational problems.  
+- Analyze and evaluate alternative solutions to computing problems using a programming language.
+- Use current tools in computing practice such as Integrated Development Environments and Code Sharing platforms.
 
 ## Instructor communication policy
 
@@ -39,41 +39,42 @@ __Rabb Muhammad:__ The best way to reach me is via direct message on Canvas. You
 
 |<div style="width500:px"></div> ||
 |:----------------------|:--------------|
-|19 Aug                 |   Fall 2024 16-Week Session Begins |
-|30 Aug                 |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
+|3 Feb                  |   Spring 2025 16-Week Session Begins |
+|14 Feb                 |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
 |                       |   __Student Drop:__ Deadline to drop class with no "W" recorded. |
 |                       |   __Refund Date:__ Deadline to drop classes and be eligible for refund of Enrollment Fee and/or all applicable fees.|
-|2 Sep                  |   __Labor Day (CAMPUS CLOSED)__ |
-|3 Sep                  |   __Instructor Drop/Census:__ All drops must be submitted by Noon
-|25 Oct                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
-|11 Nov                 |   __Veterans Day (CAMPUS CLOSED)__ |
-|25 Nov - 1 Dec         |   __Thanksgiving (NO CLASSES)__ |
-|16 Dec                 |   __Session end__|
-|3 Jan 2025             |   __Grades:__ Deadline for instructors to submit final grades|
+|18 Feb                 |   __Instructor Drop/Census:__ All drops must be submitted by Noon
+|31 Mar - 4 Apr         |   __Spring break (NO CLASSES)__ |
+|4 Apr                  |   __Cesar Chavez Day (COLLEGE CLOSED__ |
+|18 Apr                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
+|26 May                 |   __Memorial Day (COLLEGE CLOSED)__ |
+|2 Jun                  |   __Session end__|
+|9 Jun                  |   __Grades:__ Deadline for instructors to submit final grades|
+|13 Jun                 |   __Spring grades available__|
 
-Please visit the [district website](https://www.sdccd.edu/students/dates-and-deadlines/index.aspx) to learn more about the deadlines.
+Please visit the [Academic Semester Calendars and Key Dates](https://www.sdccd.edu/students/dates-and-deadlines/index.aspx) to learn more about the Spring 2025 deadlines.
 
 ## Course outline and schedule
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
-|1  |19 Aug |Introduction to Python | Python vs different programming languages  | 24 Aug |
-|2  |26 Aug |Data types, variables, basic I/O operations and basic operators | Solve mathematical equations | 31 Aug |
-|3  |2 Sep  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | Write a code and implement a given algorithm| 7 Sep |
-|4  |9 Sep  |Functions, tuples, dictionaries, data processing and exceptions | Create a vaccination table using a nested dictionary data structure | 14 Sep |
-|5  |16 Sep |Modules, Packages and PIP | Writing your first module | 21 Sep  |
-|6  |23 Sep |Strings, string and list methods, and exceptions | Text parsing | 28 Sep |
-|7  |30 Sep |Object-Oriented Programming | Apply OOP concepts | 5 Oct |
-|8  |7 Oct |__Project work__| | 12 Oct |
-|9  |14 Oct | Graphical User Interfaces | tkinter | 20 Oct  |
-|10 |21 Oct | Files and Databases | Creating files and CSV parsing | 27 Oct |
-|11 |28 Oct | Modifying Multimedia | Python Image Library | 3 Nov |
-|12 |4 Nov | Programming Lab 8 | | 10 Nov |
-|13 |11 Nov | __Final Project Part 1__ | | 17 Nov |
-|14 |18 Nov | Midterm Project |  | 24 Nov |
-|||__Thanksgiving week (25 Nov - 1 Dec) - No classes__|
-|15 |2 Dec |  __Final Exam__    |  | 8 Dec
-|16 |9 Dec | __Final Project Part 2__ |  | 16 Dec
+|1  |3 Feb |Introduction to Python | Python vs different programming languages  | 9 Feb |
+|2  |10 Feb |Data types, variables, basic I/O operations and basic operators | Solve mathematical equations | 16 Feb |
+|3  |17 Feb  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | Write a code and implement a given algorithm| 23 Feb |
+|4  |24 Feb  |Functions, tuples, dictionaries, data processing and exceptions | Create a vaccination table using a nested dictionary data structure | 2 Mar |
+|5  |3 Mar |Modules, Packages and PIP | Writing your first module | 9 Mar |
+|6  |10 Mar |Strings, string and list methods, and exceptions | Text parsing | 16 Mar |
+|7  |17 Mar |Object-Oriented Programming | Apply OOP concepts | 23 Mar |
+|8  |24 Mar |__Project work__| | 30 Mar |
+|||__Spring break (31 Mar - 4 May) - No classes__|
+|9  |7 Apr | Graphical User Interfaces | tkinter |   |
+|10 |14 Apr | Files and Databases | Creating files and CSV parsing |  |
+|11 |21 Apr | Modifying Multimedia | Python Image Library |  |
+|12 |28 Apr | Programming Lab 8 | |  |
+|13 |5 May | __Final Project Part 1__ | |  |
+|14 |12 May | Midterm Project |  |  |
+|15 |19 May |  __Final Exam__    |  |  |
+|16 |26 May | __Final Project Part 2__ |  | |
 
 ## Textbook
 The following textbook is used for this course:  
