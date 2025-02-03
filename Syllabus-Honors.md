@@ -8,11 +8,6 @@ The students enrolled in the Honors Contract are expected to do independent rese
 
 You can find more information about the Honors Contract [here](https://sdmiramar.edu/services/honors).
 
-## Student learning outcome
-- Apply algorithmic and mathematical reasoning to solve a wide range of computational problems.  
-- Analyze and evaluate alternative solutions to computing problems using a programming language.
-- Use current tools in computing practice such as Integrated Development Environments and Code Sharing platforms.
-
 ## Course information
 
 |<div style="width:100px"></div> |                |
