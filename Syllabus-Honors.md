@@ -1,6 +1,11 @@
 # Syllabus (CISC-179 Python Programming) Honors Contract  
 __This syllabus is for Honors Contract Students only__  
 
+## Welcome to the course!
+My name is Dr Danish Khan and I am looking forward to starting this educational journey with each of you! Together, we will build a constructive and inclusive environment where everyone's ideas are welcomed and appreciated. Your contributions will greatly enrich our classroom community, and I am eager to learn more about each of you. Let’s focus on making this school year a valuable experience filled with growth, learning, and positive memories!
+
+> ___A person who never made a mistake never tried anything new.___ (Albert Einstein)
+
 ## Course description
 In this course, you will learn the universal concepts of computer programming, the syntax and semantics of the Python language, practical skills in resolving typical implementation challenges, how to use the most important elements of the Python Standard Library, how to install your runtime environment, how to design, develop, test, and debug your own Python programs.
 
