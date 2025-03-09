@@ -313,8 +313,6 @@ We've launched the code inside the C:\User\user folder, and this is what we've g
 C:\Users\user C:\Users\user\AppData\Local\Programs\Python\Python36-32\python36.zip C:\Users\user\AppData\Local\Programs\Python\Python36-32\DLLs C:\Users\user\AppData\Local\Programs\Python\Python36-32\lib C:\Users\user\AppData\Local\Programs\Python\Python36-32 C:\Users\user\AppData\Local\Programs\Python\Python36-32\lib\site-packages
 ```
 
-**sample output**
-
 Note: the folder in which the execution starts is listed in the **first path's element**.
 
 Note once again: there is a zip file listed as one of the path's elements - it's not an error. Python is able to treat zip files as ordinary folders - this can save lots of storage.
