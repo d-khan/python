@@ -183,9 +183,6 @@ class Stack:  # Defining the Stack class.
 
 stack_object = Stack()  # Instantiating the object.
 ```
-
-# The stack – the object approach: continued
-
 Any change you make inside the constructor that modifies the state of the `self` parameter will be reflected in the newly created object.
 
 This means you can add any property to the object and the property will remain there until the object finishes its life or the property is explicitly removed.
@@ -226,8 +223,6 @@ class Stack:
 stack_object = Stack()
 print(len(stack_object.stack_list))
 ```
-
-# The stack - the object approach: continued
 
 Take a look - we've added two underscores before the `stack_list` name - nothing more:
 
