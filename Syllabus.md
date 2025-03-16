@@ -51,15 +51,15 @@ __Rabb Muhammad:__ The best way to reach me is via direct message on Canvas. You
 |6  |10 Mar |Strings, string and list methods, and exceptions | Text parsing | 16 Mar |
 |7  |17 Mar |Object-Oriented Programming | Apply OOP concepts | 23 Mar |
 |8  |24 Mar |__Project work__| | 30 Mar |
-|||__Spring break (31 Mar - 4 May) - No classes__|
-|9  |7 Apr | Graphical User Interfaces | tkinter |   |
-|10 |14 Apr | Files and Databases | Creating files and CSV parsing |  |
-|11 |21 Apr | Modifying Multimedia | Python Image Library |  |
-|12 |28 Apr | Programming Lab 8 | |  |
-|13 |5 May | __Final Project Part 1__ | |  |
-|14 |12 May | Midterm Project |  |  |
-|15 |19 May |  __Final Exam__    |  |  |
-|16 |26 May | __Final Project Part 2__ |  | |
+|||__Spring break (31 Mar - 4 Apr) - No classes__|
+|9  |7 Apr | Graphical User Interfaces | tkinter | 13 Apr  |
+|10 |14 Apr | Files and Databases | Creating files and CSV parsing | 20 Apr |
+|11 |21 Apr | Modifying Multimedia | Python Image Library | 27 Apr |
+|12 |28 Apr | Programming Lab 8 | | 4 May |
+|13 |5 May | __Final Project Part 1__ | | 11 May |
+|14 |12 May | Midterm Project |  | 18 May |
+|15 |19 May |  __Final Exam__    |  | 25 May |
+|16 |26 May | __Final Project Part 2__ |  | 2 Jun |
 
 ## Textbook
 The following textbook is used for this course:  
