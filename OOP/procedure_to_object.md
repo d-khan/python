@@ -39,9 +39,8 @@ We're ready to **define a function that puts a value onto the stack**. Here are 
 
 This is how we've done it - take a look:
 
-```
+``` python
 def push(val):
-
     stack.append(val)
 ```
 
@@ -54,13 +53,10 @@ Now it's time for a **function to take a value off the stack**. This is how you 
 
 The function is here:
 
-```
+``` python
 def pop():
-
     val = stack[-1]
-
     del stack[-1]
-
     return val
 ```
 
@@ -71,16 +67,13 @@ Let's assemble all the pieces together to set the stack in motion. The **complet
 ```python
 stack = []
 
-
 def push(val):
     stack.append(val)
-
 
 def pop():
     val = stack[-1]
     del stack[-1]
     return val
-
 
 push(3)
 push(2)
@@ -91,8 +84,6 @@ print(pop())
 print(pop())
 
 ```
-
-
 
 The program outputs the following text to the screen:
 
@@ -108,7 +99,7 @@ But the more often you use it, the more disadvantages you'll encounter. Here are
 
 - the essential variable (the stack list) is highly vulnerable; anyone can modify it in an uncontrollable way, destroying the stack, in effect; this doesn't mean that it's been done maliciously - on the contrary, it may happen as a result of carelessness, e.g., when somebody confuses variable names; imagine that you have accidentally written something like this:
 
-  ```
+  ```python
   stack[0] = 0
   ```
 
@@ -134,7 +125,7 @@ Of course, the main idea remains the same. We'll use a list as the stack's stora
 
 Let's start from the absolute beginning - this is how the objective stack begins:
 
-```
+```python
 class Stack:
 ```
 
@@ -160,7 +151,7 @@ Such a function is called a **constructor**, as its general purpose is to **cons
 
 Let's add a very simple constructor to the new class. Take a look at the snippet:
 
-```
+```python
 class Stack:
     def __init__(self):
         print("Hi!")
@@ -203,7 +194,7 @@ Now let's **add just one property to the new object** – a list for a stack. We
 
 Just like here:
 
-```
+```python
 class Stack:
     def __init__(self):
         self.stack_list = []
@@ -240,7 +231,7 @@ print(len(stack_object.stack_list))
 
 Take a look - we've added two underscores before the `stack_list` name - nothing more:
 
-```
+```python
 class Stack:
     def __init__(self):
         self.__stack_list = []
@@ -426,7 +417,7 @@ The first step is easy: just **define a new subclass pointing to the class which
 
 This is what it looks like:
 
-```
+```python
 class AddingStack(Stack):
 
     pass
@@ -443,13 +434,10 @@ Firstly, let's add a new variable to the class. It'll be a **private variable**,
 
 As you already know, adding a new property to the class is done by the constructor. You already know how to do that, but there is something really intriguing inside the constructor. Take a look:
 
-```
+```python
 class AddingStack(Stack):
-
     def __init__(self):
-
         Stack.__init__(self)
-
         self.__sum = 0
 ```
 
@@ -502,7 +490,7 @@ Note: the second activity has already been implemented inside the superclass - s
 
 This is how the `push` method looks in the subclass:
 
-```
+```python
 def push(self, val):
     self.__sum += val
     Stack.push(self, val)
@@ -552,7 +540,7 @@ We have to define a new method. We'll name it `get_sum`. Its only task will be t
 
 Here it is:
 
-```
+```python
 def get_sum(self):
     return self.__sum
 ```
