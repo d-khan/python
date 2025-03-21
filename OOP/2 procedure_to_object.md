@@ -62,7 +62,7 @@ def pop():
 
 Note: the function doesn't check if there is any element in the stack.
 
-Let's assemble all the pieces together to set the stack in motion. The **complete program** pushes three numbers onto the stack, pulls them off, and prints their values on the screen. You can see it in the editor window.
+Let's assemble all the pieces together to set the stack in motion. The **complete program** pushes three numbers onto the stack, pulls them off, and prints their values on the screen. You can see the code given below.
 
 ```python
 stack = []
@@ -164,7 +164,15 @@ And now:
 - it has to have **at least one parameter** (we'll discuss this later); the parameter is used to represent the newly created object - you can use the parameter to manipulate the object, and to enrich it with the needed properties; you'll make use of this soon;
 - note: the obligatory parameter is usually named `self` - it's only **a convention, but you should follow it** - it simplifies the process of reading and understanding your code.
 
-The code is in the editor. Run it now.
+Run the following code.
+
+```python
+class Stack:  # Defining the Stack class.
+    def __init__(self):  # Defining the constructor function.
+        print("Hi!")
+
+stack_object = Stack()  # Instantiating the object.
+```
 
 Here is its output:
 
@@ -176,13 +184,6 @@ Hi!
 
 Note - there is no trace of invoking the constructor inside the code. It has been invoked implicitly and automatically. Let's make use of that now.
 
-```python
-class Stack:  # Defining the Stack class.
-    def __init__(self):  # Defining the constructor function.
-        print("Hi!")
-
-stack_object = Stack()  # Instantiating the object.
-```
 Any change you make inside the constructor that modifies the state of the `self` parameter will be reflected in the newly created object.
 
 This means you can add any property to the object and the property will remain there until the object finishes its life or the property is explicitly removed.
@@ -372,7 +373,30 @@ print(stack_object_2.pop())
 
 There are **two stacks created from the same base class**. They work **independently**. You can make more of them if you want to.
 
-Run the code in the editor and see what happens. Carry out your own experiments.
+Run the following code and see what happens. Carry out your own experiments.
+
+```python
+class Stack:
+    def __init__(self):
+        self.__stack_list = []
+
+    def push(self, val):
+        self.__stack_list.append(val)
+
+    def pop(self):
+        val = self.__stack_list[-1]
+        del self.__stack_list[-1]
+        return val
+
+
+stack_object_1 = Stack()
+stack_object_2 = Stack()
+
+stack_object_1.push(3)
+stack_object_2.push(stack_object_1.pop())
+
+print(stack_object_2.pop())
+```
 
 Analyze the snippet below - we've created three objects of the class `Stack`. Next, we've juggled them up. Try to predict the value outputted to the screen.
 
@@ -540,7 +564,50 @@ def get_sum(self):
     return self.__sum
 ```
 
-So, let's look at the program in the editor. The complete code of the class is there. We can check its functioning now, and we do it with the help of a very few additional lines of code.
+So, let's look at the program given below. The complete code of the class is there. We can check its functioning now, and we do it with the help of a very few additional lines of code.
+
+```python
+class Stack:
+    def __init__(self):
+        self.__stack_list = []
+
+    def push(self, val):
+        self.__stack_list.append(val)
+
+    def pop(self):
+        val = self.__stack_list[-1]
+        del self.__stack_list[-1]
+        return val
+
+
+class AddingStack(Stack):
+    def __init__(self):
+        Stack.__init__(self)
+        self.__sum = 0
+
+    def get_sum(self):
+        return self.__sum
+
+    def push(self, val):
+        self.__sum += val
+        Stack.push(self, val)
+
+    def pop(self):
+        val = Stack.pop(self)
+        self.__sum -= val
+        return val
+
+
+stack_object = AddingStack()
+
+for i in range(5):
+    stack_object.push(i)
+print(stack_object.get_sum())
+
+for i in range(5):
+    print(stack_object.pop())
+```
+
 
 As you can see, we add five subsequent values onto the stack, print their sum, and take them all off the stack.
 
