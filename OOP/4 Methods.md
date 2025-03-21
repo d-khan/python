@@ -209,7 +209,7 @@ Each Python class and each Python object is pre-equipped with a set of useful at
 
 You already know one of these - it's the `__dict__` property.
 
-Let's observe how it deals with methods - look at the code in the editor.
+Let's observe how it deals with methods - look at the code in the given below.
 
 Run it to see what it outputs. Check the output carefully.
 
@@ -271,7 +271,7 @@ will cause an error.
 
 ```__module__``` is a string, too - it **stores the name of the module which contains the definition of the class**.
 
-Let's check it - run the code in the editor.
+Let's check it - run the following code.
 
 ```python
 class Classy:
@@ -346,24 +346,7 @@ What can you find out about classes in Python? The answer is simple – everythi
 
 Both reflection and introspection enable a programmer to do anything with any object, no matter where it comes from.
 
-Analyze the code in the editor.
-
-The function named `incIntsI()` gets an object of any class, scans its contents in order to find all integer attributes with names starting with i, and increments them by one.
-
-Impossible? Not at all!
-
-This is how it works:
-
-- line 1: define a very simple class...
-- lines 5 through 11: ... and fill it with some attributes;
-- line 14: this is our function!
-- line 15: scan the `__dict__` attribute, looking for all attribute names;
-- line 16: if a name starts with i...
-- line 17: ... use the `getattr()` function to get its current value; note: `getattr()` takes two arguments: an object, and its property name (as a string), and returns the current attribute's value;
-- line 18: check if the value is of type integer, and use the function `isinstance()` for this purpose (we'll discuss this later);
-- line 19: if the check goes well, increment the property's value by making use of the `setattr()` function; the function takes three arguments: an object, the property name (as a string), and the property's new value.
-
-The code outputs:
+Analyze the following code.
 
 ```python
 class MyClass:        # line 1
@@ -392,6 +375,24 @@ incIntsI(obj)
 print(obj.__dict__)
 
 ```
+
+The function named `incIntsI()` gets an object of any class, scans its contents in order to find all integer attributes with names starting with i, and increments them by one.
+
+Impossible? Not at all!
+
+This is how it works:
+
+- line 1: define a very simple class...
+- lines 5 through 11: ... and fill it with some attributes;
+- line 14: this is our function!
+- line 15: scan the `__dict__` attribute, looking for all attribute names;
+- line 16: if a name starts with i...
+- line 17: ... use the `getattr()` function to get its current value; note: `getattr()` takes two arguments: an object, and its property name (as a string), and returns the current attribute's value;
+- line 18: check if the value is of type integer, and use the function `isinstance()` for this purpose (we'll discuss this later);
+- line 19: if the check goes well, increment the property's value by making use of the `setattr()` function; the function takes three arguments: an object, the property name (as a string), and the property's new value.
+
+The code outputs:
+
 
 ```python
 {'a': 1, 'integer': 4, 'b': 2, 'i': 3, 'z': 5, 'ireal': 3.5}
