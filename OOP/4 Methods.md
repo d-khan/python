@@ -12,7 +12,17 @@ The name self suggests the parameter's purpose - **it identifies the object for 
 
 If you're going to invoke a method, you mustn't pass the argument for the `self` parameter - Python will set it for you.
 
-The example in the editor shows the difference.
+The following example shows the difference.
+
+```python
+class Classy:
+    def method(self):
+        print("method")
+
+
+obj = Classy()
+obj.method()
+```
 
 The code outputs:
 
@@ -114,7 +124,17 @@ The constructor:
 - **may (but doesn't need to) have more parameters** than just `self`; if this happens, the way in which the class name is used to create the object must reflect the `__init__` definition;
 - **can be used to set up the object**, i.e., properly initialize its internal state, create instance variables, instantiate any other objects if their existence is needed, etc.
 
-Look at the code in the editor. The example shows a very simple constructor at work.
+Look at the code below. The example shows a very simple constructor at work.
+
+```python
+class Classy:
+    def __init__(self, value):
+        self.var = value
+
+obj_1 = Classy("object")
+
+print(obj_1.var)
+```
 
 Run it. The code outputs:
 
@@ -126,16 +146,6 @@ Note that the constructor:
 
 - **cannot return a value**, as it is designed to return a newly created object and nothing else;
 - **cannot be invoked directly either from the object or from inside the class** (you can invoke a constructor from any of the object's subclasses, but we'll discuss this issue later.)
-
-```python
-class Classy:
-    def __init__(self, value):
-        self.var = value
-
-obj_1 = Classy("object")
-
-print(obj_1.var)
-```
 
 As `__init__` is a method, and a method is a function, you can do the same tricks with constructors/methods as you do with ordinary functions.
 
