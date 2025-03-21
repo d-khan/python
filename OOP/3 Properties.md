@@ -188,8 +188,6 @@ We told you before that class variables exist even when no class instance (objec
 
 Now we're going to take the opportunity to show you **the difference between these two `__dict__` variables**, the one from the class and the one from the object.
 
-Look at the code in the editor. The proof is there.
-
 Let's take a closer look at it:
 
 1. We define one class named `ExampleClass`;
@@ -225,21 +223,7 @@ Note that the object's `__dict__` is empty - the object has no instance variable
 
 Python's attitude to object instantiation raises one important issue - in contrast to other programming languages, **you may not expect that all objects of the same class have the same sets of properties**.
 
-Just like in the example in the editor. Look at it carefully.
-
-The object created by the constructor can have only one of two possible attributes: `a` or `b`.
-
-Executing the code will produce the following output:
-
-```python
-1
-Traceback (most recent call last):
-  File ".main.py", line 11, in 
-    print(example_object.b)
-AttributeError: 'ExampleClass' object has no attribute 'b'
-```
-
-As you can see, accessing a non-existing object (class) attribute causes an AttributeError exception.
+Just like in the example in the below. Look at it carefully.
 
 ```python
 class ExampleClass:
@@ -257,9 +241,42 @@ print(example_object.b)
 
 ```
 
+The object created by the constructor can have only one of two possible attributes: `a` or `b`.
+
+Executing the code will produce the following output:
+
+```python
+1
+Traceback (most recent call last):
+  File ".main.py", line 11, in 
+    print(example_object.b)
+AttributeError: 'ExampleClass' object has no attribute 'b'
+```
+
+As you can see, accessing a non-existing object (class) attribute causes an AttributeError exception.
+
 The try-except instruction gives you the chance to avoid issues with non-existent properties.
 
-It's easy - look at the code in the editor.
+It's easy - look at the code given below.
+
+```python
+class ExampleClass:
+    def __init__(self, val):
+        if val % 2 != 0:
+            self.a = 1
+        else:
+            self.b = 1
+
+
+example_object = ExampleClass(1)
+print(example_object.a)
+
+try:
+    print(example_object.b)
+except AttributeError:
+    pass
+
+```
 
 As you can see, this action isn't very sophisticated. Essentially, we've just swept the issue under the carpet.
 
@@ -290,26 +307,14 @@ if hasattr(example_object, 'b'):
     print(example_object.b)
 ```
 
+Don't forget that the `hasattr()` function can operate on classes, too. You can use it **to find out if a class variable is available**, just like here in the example in the below.
+
 ```python
 class ExampleClass:
-    def __init__(self, val):
-        if val % 2 != 0:
-            self.a = 1
-        else:
-            self.b = 1
-
-
-example_object = ExampleClass(1)
-print(example_object.a)
-
-try:
-    print(example_object.b)
-except AttributeError:
-    pass
-
+    attr = 1
+print(hasattr(ExampleClass, 'attr'))
+print(hasattr(ExampleClass, 'prop'))
 ```
-
-Don't forget that the `hasattr()` function can operate on classes, too. You can use it **to find out if a class variable is available**, just like here in the example in the editor.
 
 The function returns True if the specified class contains a given attribute, and False otherwise.
 
@@ -336,13 +341,7 @@ Were you successful? Run the code to check your predictions.
 
 Okay, we've made it to the end of this section. In the next section we're going to talk about methods, as methods drive the objects and make them active.
 
-```python
-class ExampleClass:
-    attr = 1
-print(hasattr(ExampleClass, 'attr'))
-print(hasattr(ExampleClass, 'prop'))
 
-```
 
 # Key takeaways
 
