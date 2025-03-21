@@ -149,7 +149,20 @@ Note that the constructor:
 
 As `__init__` is a method, and a method is a function, you can do the same tricks with constructors/methods as you do with ordinary functions.
 
-The example in the editor shows how to define a constructor with a default argument value. Test it.
+The example below shows how to define a constructor with a default argument value. Test it.
+
+```python
+class Classy:
+    def __init__(self, value = None):
+        self.var = value
+
+
+obj_1 = Classy("object")
+obj_2 = Classy()
+
+print(obj_1.var)
+print(obj_2.var)
+```
 
 The code outputs:
 
@@ -188,21 +201,6 @@ The code outputs:
 visible
 failed
 hidden
-```
-
-Run the program, and test it.
-
-```python
-class Classy:
-    def __init__(self, value = None):
-        self.var = value
-
-obj_1 = Classy("object")
-obj_2 = Classy()
-
-print(obj_1.var)
-print(obj_2.var)
-
 ```
 
 # The inner life of classes and objects
@@ -244,7 +242,16 @@ Note: the `__name__` attribute is absent from the object - **it exists only insi
 
 If you want to **find the class of a particular object**, you can use a function named `type()`, which is able (among other things) to find a class which has been used to instantiate any object.
 
-Look at the code in the editor, run it, and see for yourself.
+Look at the code below, run it, and see for yourself.
+
+```python
+class Classy:
+    pass
+
+print(Classy.__name__)
+obj = Classy()
+print(type(obj).__name__)
+```
 
 The code outputs:
 
@@ -261,19 +268,20 @@ print(obj.__name__)
 
 will cause an error.
 
+
+```__module__``` is a string, too - it **stores the name of the module which contains the definition of the class**.
+
+Let's check it - run the code in the editor.
+
 ```python
 class Classy:
     pass
 
 
-print(Classy.__name__)
+print(Classy.__module__)
 obj = Classy()
-print(type(obj).__name__)
+print(obj.__module__)
 ```
-
-`__module__` is a string, too - it **stores the name of the module which contains the definition of the class**.
-
-Let's check it - run the code in the editor.
 
 The code outputs:
 
@@ -282,14 +290,6 @@ __main__ __main__
 ```
 
 As you know, any module named `__main__` is actually not a module, but the **file currently being run**.
-
-```python
-class Classy:
-    pass
-print(Classy.__module__)
-obj = Classy()
-print(obj.__module__)
-```
 
 `__bases__` is a tuple. The **tuple contains classes** (not class names) which are direct superclasses for the class.
 
@@ -303,25 +303,20 @@ Note: **only classes have this attribute** - objects don't.
 
 We've defined a function named `printbases()`, designed to present the tuple's contents clearly.
 
-Look at the code in the editor. Analyze it and run it. It will output:
-
-```python
-( object )
-( object )
-( SuperOne SuperTwo )
-```
-
-Note: **a class without explicit superclasses points to object** (a predefined Python class) as its direct ancestor.
+Look at the code below. Analyze it and run it. It will output:
 
 ```python
 class SuperOne:
     pass
 
+
 class SuperTwo:
     pass
 
+
 class Sub(SuperOne, SuperTwo):
     pass
+
 
 def printBases(cls):
     print('( ', end='')
@@ -330,11 +325,20 @@ def printBases(cls):
         print(x.__name__, end=' ')
     print(')')
 
+
 printBases(SuperOne)
 printBases(SuperTwo)
 printBases(Sub)
 
 ```
+
+```python
+( object )
+( object )
+( SuperOne SuperTwo )
+```
+
+Note: **a class without explicit superclasses points to object** (a predefined Python class) as its direct ancestor.
 
 # Investigating classes
 
@@ -362,25 +366,25 @@ This is how it works:
 The code outputs:
 
 ```python
-class MyClass:
+class MyClass:        # line 1
     pass
 
 
-obj = MyClass()
-obj.a = 1
-obj.b = 2
-obj.i = 3
-obj.ireal = 3.5
-obj.integer = 4
-obj.z = 5
+obj = MyClass()        # line 5
+obj.a = 1              # line 6
+obj.b = 2              # line 7
+obj.i = 3              # line 8
+obj.ireal = 3.5        # line 9
+obj.integer = 4        # line 10
+obj.z = 5              # line 11
 
 
-def incIntsI(obj):
-    for name in obj.__dict__.keys():
-        if name.startswith('i'):
-            val = getattr(obj, name)
-            if isinstance(val, int):
-                setattr(obj, name, val + 1)
+def incIntsI(obj):    # line 14
+    for name in obj.__dict__.keys():    # line 15
+        if name.startswith('i'):        # line 16
+            val = getattr(obj, name)    # line 17
+            if isinstance(val, int):    # line 18
+                setattr(obj, name, val + 1) # line 19
 
 
 print(obj.__dict__)
