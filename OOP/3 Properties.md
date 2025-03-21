@@ -200,11 +200,7 @@ Let's take a closer look at it:
    - Changing the assignment to `varia = val` would operate on a method's local variable; (we strongly encourage you to test both of the above cases - this will make it easier for you to remember the difference)
 5. The first line of the off-class code prints the value of the `ExampleClass.varia` attribute; note - we use the value before the very first object of the class is instantiated.
 
-Run the code in the editor and check its output.
-
-As you can see, the class' `__dict__` contains much more data than its object's counterpart. Most of them are useless now - the one we want you to check carefully shows the current `varia` value.
-
-Note that the object's `__dict__` is empty - the object has no instance variables.
+Run the code below and check its output.
 
 ```python
 class ExampleClass:
@@ -220,6 +216,10 @@ print(ExampleClass.__dict__)
 print(example_object.__dict__)
 
 ```
+
+As you can see, the class' `__dict__` contains much more data than its object's counterpart. Most of them are useless now - the one we want you to check carefully shows the current `varia` value.
+
+Note that the object's `__dict__` is empty - the object has no instance variables.
 
 # Checking an attribute's existence
 
