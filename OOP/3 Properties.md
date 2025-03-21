@@ -62,7 +62,29 @@ The program's output clearly shows that our assumptions are correct - here it is
 
 There is one additional conclusion that should be stated here: **modifying an instance variable of any object has no impact on all the remaining objects**. Instance variables are perfectly isolated from each other.
 
-Take a look at the modified example in the editor.
+Take a look at the code below.
+```
+class ExampleClass:
+    def __init__(self, val = 1):
+        self.__first = val
+
+    def set_second(self, val = 2):
+        self.__second = val
+
+
+example_object_1 = ExampleClass()
+example_object_2 = ExampleClass(2)
+
+example_object_2.set_second(3)
+
+example_object_3 = ExampleClass(4)
+example_object_3.__third = 5
+
+
+print(example_object_1.__dict__)
+print(example_object_2.__dict__)
+print(example_object_3.__dict__)
+```
 
 It's nearly the same as the previous one. The only difference is in the property names. We've **added two underscores (`__`)** in front of them.
 
@@ -97,29 +119,6 @@ As you can see, making a property private is limited.
 
 **The mangling won't work if you add a private instance variable outside the class code**. In this case, it'll behave like any other ordinary property.
 
-```python
-class ExampleClass:
-    def __init__(self, val = 1):
-        self.__first = val
-
-    def set_second(self, val = 2):
-        self.__second = val
-
-
-example_object_1 = ExampleClass()
-example_object_2 = ExampleClass(2)
-
-example_object_2.set_second(3)
-
-example_object_3 = ExampleClass(4)
-example_object_3.__third = 5
-
-
-print(example_object_1.__dict__)
-print(example_object_2.__dict__)
-print(example_object_3.__dict__)
-
-```
 
 # Class variables
 
