@@ -165,8 +165,6 @@ Two important conclusions come from the example:
 
 Mangling a class variable's name has the same effects as those you're already familiar with.
 
-Look at the example in the editor. Can you guess its output?
-
 Run the program and check if your predictions were correct. Everything works as expected, doesn't it?
 
 ```python
