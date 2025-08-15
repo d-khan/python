@@ -1,24 +1,24 @@
 # Syllabus (CISC-179 Python Programming)
 
 ## Welcome to the course!
-My name is Dr Danish Khan and I am looking forward to starting this educational journey with each of you! Together, we will build a constructive and inclusive environment where everyone's ideas are welcomed and appreciated. Your contributions will greatly enrich our classroom community, and I am eager to learn more about each of you. Let’s focus on making this school year a valuable experience filled with growth, learning, and positive memories!
+My name is Dr. Danish Khan, and I am excited to begin this educational journey with all of you! Together, we will create a supportive and inclusive environment where everyone’s ideas are valued and respected. Your active participation will enrich our learning community, and I look forward to getting to know each of you. Let’s make this school year a meaningful experience filled with growth, learning, and lasting positive memories!
 
 > ___A person who never made a mistake never tried anything new.___ (Albert Einstein)
 
 ## Course description
-In this course, you will learn the universal concepts of computer programming, the syntax and semantics of the Python language, practical skills in resolving typical implementation challenges, how to use the most important elements of the Python Standard Library, how to install your runtime environment, how to design, develop, test, and debug your own Python programs.
+In this course, you will gain an understanding of universal programming concepts, learn the syntax and semantics of the Python language, and develop practical skills for solving common implementation challenges. You will explore key elements of the Python Standard Library, learn how to install and configure your runtime environment, and acquire the ability to design, develop, test, and debug your own Python programs.
 
 ## Course information
 
 |<div style="width:100px"></div> |                |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-179 Python Programming|
-|   Year                        |   Spring 2025|
-|   Class ID                    |   83548|
+|   Year                        |   Fall 2025|
+|   Class ID                    |   12158|
 |   Section                     |   3001|
 |   Location                    |   Online|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Feb 3 – Jun 2 (16 weeks)|
+|   Duration                    |   Aug 25 – Dec 20 (16 weeks)|
 |   Professor #1                |   Dr Danish Khan|
 |   Office hours #1             |   Mon 12:30 pm - 2:30 pm in Zoom (https://sdccd-edu.zoom.us/j/89694884444) or in-person (Room M-107P)| 
 |                               |   Tue 12:30 pm - 2:30 pm in Zoom (https://sdccd-edu.zoom.us/j/81215489501) or in-person (Room M-107P)|
