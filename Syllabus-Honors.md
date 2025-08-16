@@ -2,14 +2,14 @@
 __This syllabus is for Honors Contract Students only__  
 
 ## Welcome to the course!
-My name is Dr Danish Khan and I am looking forward to starting this educational journey with each of you! Together, we will build a constructive and inclusive environment where everyone's ideas are welcomed and appreciated. Your contributions will greatly enrich our classroom community, and I am eager to learn more about each of you. Let’s focus on making this school year a valuable experience filled with growth, learning, and positive memories!
+My name is Dr. Danish Khan, and I am excited to begin this educational journey with all of you! Together, we will create a supportive and inclusive environment where everyone’s ideas are valued and respected. Your active participation will enrich our learning community, and I look forward to getting to know each of you. Let’s make this school year a meaningful experience filled with growth, learning, and lasting positive memories!
 
 > ___A person who never made a mistake never tried anything new.___ (Albert Einstein)
 
 ## Course description
-In this course, you will learn the universal concepts of computer programming, the syntax and semantics of the Python language, practical skills in resolving typical implementation challenges, how to use the most important elements of the Python Standard Library, how to install your runtime environment, how to design, develop, test, and debug your own Python programs.
+In this course, you will gain an understanding of universal programming concepts, learn the syntax and semantics of the Python language, and develop practical skills for solving common implementation challenges. You will explore key elements of the Python Standard Library, learn how to install and configure your runtime environment, and acquire the ability to design, develop, test, and debug your own Python programs.
 
-The students enrolled in the Honors Contract are expected to do independent research, extra assignments, and 1:1 online meetings with the professor. The student will be involved in Work-Based Learning activities in which students get in touch with career services, improve resume writing and interviewing skills, and get in touch with professionals in the relevant field.
+Students enrolled in the Honors Contract are expected to engage in independent research, complete additional assignments, and participate in one-on-one online meetings with the professor. They will also take part in Work-Based Learning activities, which include connecting with career services, enhancing resume writing and interview skills, and networking with professionals in their field of study.
 
 You can find more information about the Honors Contract [here](https://sdmiramar.edu/services/honors).
 
