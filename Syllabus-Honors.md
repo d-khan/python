@@ -20,12 +20,12 @@ You can find more information about the Honors Contract [here](https://sdmiramar
 |<div style="width:100px"></div> |                |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-179 Python Programming|
-|   Year                        |   Spring 2025|
-|   Class ID                    |   83548|
+|   Year                        |   Fall 2025|
+|   Class ID                    |   12158|
 |   Section                     |   3001|
 |   Location                    |   Online|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Feb 3 – Jun 2 (16 weeks)|
+|   Duration                    |   Aug 25 – Dec 20 (16 weeks)|
 |   Professor #1                |   Dr Danish Khan|
 |   Office hours #1             |   Mon 12:30 pm - 2:30 pm in Zoom (https://sdccd-edu.zoom.us/j/89694884444) or in-person (Room M-107P)| 
 |                               |   Tue 12:30 pm - 2:30 pm in Zoom (https://sdccd-edu.zoom.us/j/81215489501) or in-person (Room M-107P)|
