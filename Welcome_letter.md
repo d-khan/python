@@ -1,9 +1,11 @@
-# <div align="center"> The course will be available in Canvas on Monday, Feb 3, 2025 (12:00 am PST) </div> 
+# <div align="center"> The course will be available in Canvas on Monday, Aug 25, 2025 (12:00 am PST) </div> 
 > **This is an online asynchronous class**
 
 ## Welcome to CISC 179 Python Programming course
 
-Hi, and welcome to CISC 179 Python Programming class. Thanks for enrolling. I am looking forward to going through the course with you. My name is Dr Danish Khan, and you can contact me via **dkhan@sdccd.edu**  
+Hi, and welcome to CISC 179: Python Programming! Thank you for enrolling. I’m excited to go through this course with you.
+
+My name is Dr. Danish Khan, and you can reach me anytime at **dkhan@sdccd.edu**
 
 ## 1. The first thing to do - setup SDCCD email address
 [Setup your student email and Microsoft 365](https://www.sdccd.edu/students/student-email.aspx)
@@ -20,10 +22,10 @@ On the course start date, you should be able to see the course on the Canvas Das
 
 <img src="https://github.com/d-khan/python/blob/main/Course%20Canvas%20logo.png" alt="Course Logo" width="200"/>
 
-> **Note:** If you do not see the course on Canvas, you are either not enrolled or enrolled recently, but the course will appear later on Canvas.
+> **Note:** If you do not see the course on Canvas, it means either you are not enrolled, or you enrolled recently and the course will appear on Canvas shortly.
 
 ## 3. Where do I go when I am on the course site on Canvas?
-Select the **horizontal lines next to the course name -> Home -> Welcome to the CISC 187 course!** The video explains the course in detail. Please take a look at the image below.
+Select the **horizontal lines next to the course name -> Home -> Welcome to the CISC 179 course!** The video explains the course in detail. Please take a look at the image below.
 
 <img src="https://github.com/d-khan/python/blob/main/Course%20homepage.png" alt="drawing" width="600"/>
 
