@@ -43,7 +43,7 @@ __Rabb Muhammad:__ The best way to reach me is via direct message on Canvas. You
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
-|1  |3 Feb |Introduction to Python | Python vs different programming languages  | 9 Feb |
+|1  |25 Feb |Introduction to Python | Python vs different programming languages  | 9 Feb |
 |2  |10 Feb |Data types, variables, basic I/O operations and basic operators | Solve mathematical equations | 16 Feb |
 |3  |17 Feb  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | Write a code and implement a given algorithm| 23 Feb |
 |4  |24 Feb  |Functions, tuples, dictionaries, data processing and exceptions | Create a vaccination table using a nested dictionary data structure | 2 Mar |
