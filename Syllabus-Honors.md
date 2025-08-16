@@ -48,23 +48,23 @@ __Rabb Muhammad:__ The best way to reach me is via direct message on Canvas. You
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
-|1  |3 Feb |Introduction to Python | Python vs different programming languages  | 9 Feb |
-|2  |10 Feb |Data types, variables, basic I/O operations and basic operators | Solve mathematical equations | 16 Feb |
-|3  |17 Feb  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | Write a code and implement a given algorithm| 23 Feb |
-|4  |24 Feb  |Functions, tuples, dictionaries, data processing and exceptions | Create a vaccination table using a nested dictionary data structure | 2 Mar |
-|5  |3 Mar |Modules, Packages and PIP | Writing your first module | 9 Mar |
-|6  |10 Mar |Strings, string and list methods, and exceptions | Text parsing | 16 Mar |
-|7  |17 Mar |Object-Oriented Programming | Apply OOP concepts | 23 Mar |
-|8  |24 Mar |__Project work__| | 30 Mar |
-|||__Spring break (31 Mar - 4 May) - No classes__|
-|9  |7 Apr | Graphical User Interfaces | tkinter |   |
-|10 |14 Apr | Files and Databases | Creating files and CSV parsing |  |
-|11 |21 Apr | Modifying Multimedia | Python Image Library |  |
-|12 |28 Apr | Programming Lab 8 | |  |
-|13 |5 May | __Final Project Part 1__ | |  |
-|14 |12 May | Midterm Project |  |  |
-|15 |19 May |  __Final Exam__    |  |  |
-|16 |26 May | __Final Project Part 2__ |  | |
+|1  |25 Aug |Introduction to Python | Python vs different programming languages  | 31 Aug |
+|2  |1 Sep |Data types, variables, basic I/O operations and basic operators | Solve mathematical equations | 7 Sep |
+|3  |8 Sep  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | Write a code and implement a given algorithm| 14 Sep |
+|4  |15 Sep  |Functions, tuples, dictionaries, data processing and exceptions | Create a vaccination table using a nested dictionary data structure | 21 Sep |
+|5  |22 Sep |Modules, Packages and PIP | Writing your first module | 28 Sep |
+|6  |29 Sep |Strings, string and list methods, and exceptions | Text parsing | 5 Oct |
+|7  |6 Oct |Object-Oriented Programming | Apply OOP concepts | 12 Oct |
+|8  |13 Oct |__Project work__| | 19 Oct |
+|9  |20 Oct | Graphical User Interfaces | tkinter |  |
+|10 |27 Oct | Files and Databases | Creating files and CSV parsing |  |
+|11 |3 Nov | Modifying Multimedia | Python Image Library |  |
+|12 |10 Nov | Programming Lab 8 | |  |
+|13 |17 Nov | __Final Project Part 1__ | |  |
+|||__Thanksgiving break (24 - 30 Nov) - No classes__|
+|14 |1 Dec | Midterm Project |  |  |
+|15 |8 Dec |  __Final Exam__    |  |  |
+|16 |15 Dec | __Final Project Part 2__ |  |  |
 
 ## Textbook
 
