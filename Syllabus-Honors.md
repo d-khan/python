@@ -96,15 +96,17 @@ I recommend reviewing the notes and resources available on the course site in Ca
 
 ## [Attendance/Absences](https://github.com/d-khan/sdccd/blob/main/attendance.md)
 
-## [Accommodating Students with Disabilities](https://github.com/d-khan/sdccd/blob/main/dsps.md)
-
-## [Undocumented & Immigrant Student Services](https://github.com/d-khan/sdccd/blob/main/undocumented-immigration.md)
+## [Use of Artificial Intelligence Tools](https://github.com/d-khan/sdccd/blob/main/use_of_AI.md)
 
 ## [Cheating/Plagiarism](https://github.com/d-khan/sdccd/blob/main/cheating.md)
 
 ## [Honest Academic Conduct](https://github.com/d-khan/sdccd/blob/main/honest-academic.md)
 
+## [Accommodating Students with Disabilities](https://github.com/d-khan/sdccd/blob/main/dsps.md)
+
+## [Undocumented & Immigrant Student Services](https://github.com/d-khan/sdccd/blob/main/undocumented-immigration.md)
+
 ## [Sustainability](https://github.com/d-khan/sdccd/blob/main/sustainability.md)
- 
+
 ____
-Last updated on Jan 2025
+Last updated on Aug 2025
