@@ -47,7 +47,7 @@ __Rabb Muhammad:__ The best way to reach me is via direct message on Canvas. You
 |3  |8 Sep  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | Write a code and implement a given algorithm| 14 Sep |
 |4  |15 Sep  |Functions, tuples, & dictionaries | Create a vaccination table using a nested dictionary data structure | 21 Sep |
 |5  |22 Sep |Exceptions, Modules, Packages and PIP | Writing your first module | 28 Sep |
-|6  |29 Sep |Strings, string and list methods, and exceptions | Text parsing | 5 Oct |
+|6  |29 Sep |Strings and regular expressions | Text parsing | 5 Oct |
 |7  |6 Oct |Object-Oriented Programming | Apply OOP concepts | 12 Oct |
 |8  |13 Oct |__Project work__| | 19 Oct |
 |9  |20 Oct | Graphical User Interfaces | tkinter |  |
