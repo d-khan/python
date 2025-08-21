@@ -50,15 +50,15 @@ __Rabb Muhammad:__ The best way to reach me is via direct message on Canvas. You
 |6  |29 Sep |Strings and regular expressions | Text parsing | 5 Oct |
 |7  |6 Oct |Object-Oriented Programming | Apply OOP concepts | 12 Oct |
 |8  |13 Oct |__Project work__| | 19 Oct |
-|9  |20 Oct | Graphical User Interfaces | tkinter |  |
-|10 |27 Oct | Files and Databases | Creating files and CSV parsing |  |
-|11 |3 Nov | Modifying Multimedia | Python Image Library |  |
-|12 |10 Nov | Programming Lab 8 | |  |
-|13 |17 Nov | __Final Project Part 1__ | |  |
+|9  |20 Oct | Graphical User Interfaces | tkinter | 26 Oct |
+|10 |27 Oct | Files and Databases | Creating files and CSV parsing | 2 Nov |
+|11 |3 Nov | Modifying Multimedia | Python Image Library | 9 Nov |
+|12 |10 Nov | Programming Lab 8 | | 16 Nov |
+|13 |17 Nov | __Final Project Part 1__ | | 23 Nov |
 |||__Thanksgiving break (24 - 30 Nov) - No classes__|
-|14 |1 Dec | Midterm Project |  |  |
-|15 |8 Dec |  __Final Exam__    |  |  |
-|16 |15 Dec | __Final Project Part 2__ |  |  |
+|14 |1 Dec | Midterm Project |  | 7 Dec |
+|15 |8 Dec |  __Final Exam__    |  | 14 Dec |
+|16 |15 Dec | __Final Project Part 2__ |  | 20 Dec |
 
 ## Textbook
 The following textbook is used for this course:  
