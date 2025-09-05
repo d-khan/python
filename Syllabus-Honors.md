@@ -107,6 +107,8 @@ I recommend reviewing the notes and resources available on the course site in Ca
 
 ## [Undocumented & Immigrant Student Services](https://github.com/d-khan/sdccd/blob/main/undocumented-immigration.md)
 
+## [Career & Life Design Services](https://github.com/d-khan/sdccd/blob/main/career.md)
+
 ## [Sustainability](https://github.com/d-khan/sdccd/blob/main/sustainability.md)
 
 ____
