@@ -204,4 +204,3 @@ python src/game.py
 -   Difficulty settings (word length, slice count).
 -   Word categories; load words from `data/words.txt`.
 -   Session scoreboard; best streak.
--   Colorized output (e.g., `colorama`) if permitted.
