@@ -1,4 +1,4 @@
-# Save the Watermelon --- Python Project Brief (formerly "Hangmen")
+# Save the Watermelon --- Python Project Brief
 
 ## Overview
 
