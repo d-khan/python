@@ -153,11 +153,9 @@ organization & readable code (2) - Input validation & helpful messages
 
 **Deliverables:** - `docs/test-plan.md` with: - Test matrix
 (valid/invalid inputs, repeated guesses, win/lose edges). - Manual test
-transcript or screenshots. - At least **5** unit tests in
-`tests/test_logic.py` (use `unittest` or `pytest`). - README updated
-with testing instructions: - `python -m unittest` **or** `pytest`
+transcript or screenshots. OPTIONAL (use of unit test or pytest is not required)
 
-**Rubric (5 pts):** - Meaningful unit tests for core logic (2) - Manual
+**Rubric (5 pts):** - Meaningfultests for core logic (2) - Manual
 test coverage of gameplay paths (2) - Clear run instructions & results
 recorded (1)
 
@@ -175,7 +173,6 @@ recorded (1)
     -   [ ] `src/` implemented; runs without crashes
     -   [ ] `README.md` run instructions verified
 -   **P4 Testing**
-    -   [ ] `tests/` unit tests passing
     -   [ ] `docs/test-plan.md` with results
     -   [ ] Final tag `v1.0.0`
 
@@ -198,12 +195,6 @@ recorded (1)
 python -m src.game
 # or
 python src/game.py
-
-# Tests (choose one approach and document it)
-python -m unittest
-# or
-pytest
-```
 
 ------------------------------------------------------------------------
 
