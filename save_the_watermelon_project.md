@@ -104,11 +104,7 @@ scope (1)
 
 ### Progression 2 --- **Pseudocode** (5 pts)
 
-**Deliverables (in `docs/pseudocode.md`):** Pseudocode for: -
-`select_secret_word()` - `render_state(secret, guessed_letters)` -
-`apply_guess(secret, guessed_letters, guess)` → returns hit/miss &
-updated state - `is_win(secret, guessed_letters)` /
-`is_loss(slices_remaining)` - `main_game_loop()`
+**Deliverables (in `docs/pseudocode.md`):** 
 
 **Sample style (guide, not binding):**
 
@@ -144,15 +140,8 @@ input validation & repeat guesses (2) - Flow covers win/lose & replay
 ### Progression 3 --- **Code** (5 pts)
 
 **Deliverables:** - Working implementation under `src/` with
-**docstrings**, type hints (recommended), and **no runtime errors** for
+**docstrings**, and **no runtime errors** for
 typical use. - Entry point documented in README.
-
-**Minimum required functions (in `logic.py`):** -
-`select_secret_word(words: list[str]) -> str` -
-`render_state(secret: str, guessed: set[str]) -> str` -
-`apply_guess(secret: str, guessed: set[str], guess: str) -> bool` -
-`is_win(secret: str, guessed: set[str]) -> bool` -
-`is_loss(slices_remaining: int) -> bool`
 
 **Rubric (5 pts):** - Runs as documented; meets core rules (2) - Clean
 organization & readable code (2) - Input validation & helpful messages
