@@ -13,12 +13,12 @@ In this course, you will gain an understanding of universal programming concepts
 |<div style="width:100px"></div> |                |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-179 Python Programming|
-|   Year                        |   Fall 2025|
-|   Class ID                    |   12158|
+|   Year                        |   Spring 2026|
+|   Class ID                    |   23414|
 |   Section                     |   3001|
 |   Location                    |   Online|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Aug 25 – Dec 20 (16 weeks)|
+|   Duration                    |   Feb 2 – Dec 20 (16 weeks)|
 |   Professor #1                |   Dr Danish Khan|
 |   Office hours #1             |   Mon 11:00 am - 3:00 pm in Zoom (https://sdccd-edu.zoom.us/j/81092343678) or in-person (Room M-107P)| 
 |   Contact #1                  |   Room M-107P, Office phone: 619-388-7152, Email: dkhan@sdccd.edu|
