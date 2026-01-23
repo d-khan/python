@@ -103,4 +103,4 @@ I recommend reviewing the notes and resources available on the course site in Ca
 ## [Sustainability](https://github.com/d-khan/sdccd/blob/main/sustainability.md)
 
 ____
-Last updated on Aug 2025
+Last updated on Jan 2026
