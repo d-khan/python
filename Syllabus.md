@@ -18,7 +18,7 @@ In this course, you will gain an understanding of universal programming concepts
 |   Section                     |   3001|
 |   Location                    |   Online|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Feb 2 – Dec 20 (16 weeks)|
+|   Duration                    |   Feb 2 – Jun 1 (16 weeks)|
 |   Professor #1                |   Dr Danish Khan|
 |   Office hours #1             |   Mon 11:00 am - 3:00 pm in Zoom (https://sdccd-edu.zoom.us/j/81092343678) or in-person (Room M-107P)| 
 |   Contact #1                  |   Room M-107P, Office phone: 619-388-7152, Email: dkhan@sdccd.edu|
@@ -42,23 +42,23 @@ __Rabb Muhammad:__ The best way to reach me is via direct message on Canvas. You
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
-|1  |25 Aug |Introduction to Python | Python vs different programming languages  | 31 Aug |
-|2  |1 Sep |Data types, variables, basic I/O operations and basic operators | Solve mathematical equations | 7 Sep |
-|3  |8 Sep  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | Write a code and implement a given algorithm| 14 Sep |
-|4  |15 Sep  |Functions, tuples, & dictionaries | Create a vaccination table using a nested dictionary data structure | 21 Sep |
-|5  |22 Sep |Exceptions, Modules, Packages and PIP | Writing your first module | 28 Sep |
-|6  |29 Sep |Strings and regular expressions | Text parsing | 5 Oct |
-|7  |6 Oct |Object-Oriented Programming | Apply OOP concepts | 12 Oct |
-|8  |13 Oct |__Project work__| | 19 Oct |
-|9  |20 Oct | Graphical User Interfaces | tkinter | 26 Oct |
-|10 |27 Oct | Files and Databases | Creating files and CSV parsing | 2 Nov |
-|11 |3 Nov | Modifying Multimedia | Python Image Library | 9 Nov |
-|12 |10 Nov | Programming Lab 8 | | 16 Nov |
-|13 |17 Nov | __Final Project Part 1__ | | 23 Nov |
-|||__Thanksgiving break (24 - 30 Nov) - No classes__|
-|14 |1 Dec | Midterm Project |  | 7 Dec |
-|15 |8 Dec |  __Final Exam__    |  | 14 Dec |
-|16 |15 Dec | __Final Project Part 2__ |  | 20 Dec |
+|1  |2 Feb |Introduction to Python | Python vs different programming languages  | 8 Feb |
+|2  |9 Feb |Data types, variables, basic I/O operations and basic operators | Solve mathematical equations | 15 Feb |
+|3  |16 Feb  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | Write a code and implement a given algorithm| 20 Sep |
+|4  |23 Feb  |Functions, tuples, & dictionaries | Create a vaccination table using a nested dictionary data structure | 1 Mar |
+|5  |2 Mar |Exceptions, Modules, Packages and PIP | Writing your first module | 8 Mar |
+|6  |9 Mar |Strings and regular expressions | Text parsing | 15 Mar |
+|7  |16 Mar |Object-Oriented Programming | Apply OOP concepts | 22 Mar |
+|8  |23 Mar |__Project work__| | 5 Apr |
+|||__Spring break (30 Mar - 5 Apr) - No classes__|
+|9  |6 Apr | Graphical User Interfaces | tkinter | TBA |
+|10 |13 Apr | Files and Databases | Creating files and CSV parsing | TBA |
+|11 |20 Apr | Modifying Multimedia | Python Image Library | TBA |
+|12 |17 Apr | Programming Lab 8 | | TBA |
+|13 |4 May | __Final Project Part 1__ | | TBA |
+|14 |11 May | Midterm Project |  | TBA |
+|15 |18 May |  __Final Exam__    |  | TBA |
+|16 |25 May | __Final Project Part 2__ |  | TBA |
 
 ## Textbook
 The following textbook is used for this course:  
