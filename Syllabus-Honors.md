@@ -49,7 +49,7 @@ __Rabb Muhammad:__ The best way to reach me is via direct message on Canvas. You
 |-|--|--|---|----|
 |1  |2 Feb |Introduction to Python | Python vs different programming languages  | 8 Feb |
 |2  |9 Feb |Data types, variables, basic I/O operations and basic operators | Solve mathematical equations | 15 Feb |
-|3  |16 Feb  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | Write a code and implement a given algorithm| 20 Sep |
+|3  |16 Feb  |Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operators | Write a code and implement a given algorithm| 22 Feb |
 |4  |23 Feb  |Functions, tuples, & dictionaries | Create a vaccination table using a nested dictionary data structure | 1 Mar |
 |5  |2 Mar |Exceptions, Modules, Packages and PIP | Writing your first module | 8 Mar |
 |6  |9 Mar |Strings and regular expressions | Text parsing | 15 Mar |
