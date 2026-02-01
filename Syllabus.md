@@ -20,9 +20,7 @@ In this course, you will gain an understanding of universal programming concepts
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
 |   Duration                    |   Feb 2 – Jun 1 (16 weeks)|
 |   Professor #1                |   Dr Danish Khan|
-|   Office hours #1             |   Mon 11:00 - 1:30 pm in Zoom (https://sdccd-edu.zoom.us/j/84817871355) or in-person (Room M-107P) |
-|                               |   Wed 12:30 - 1:30 pm in Zoom (https://sdccd-edu.zoom.us/j/86264849566) or in-person (Room M-107P) |
-|                               |   Fri 6 - 7 pm in Zoom (https://sdccd-edu.zoom.us/j/83958745889) |
+|   Office hours #1             |   See the list of [office hours](https://github.com/d-khan/sdccd/blob/main/office_hours.md)|
 |   Contact #1                  |   Room M-107P, Office phone: 619-388-7152, Email: dkhan@sdccd.edu|
 |   Professor #2                |   Rabb Muhammad |
 |   Office hours #2             |   Booking required via Canvas Messaging|
