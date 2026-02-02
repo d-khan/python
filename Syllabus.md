@@ -51,14 +51,14 @@ __Rabb Muhammad:__ The best way to reach me is via direct message on Canvas. You
 |7  |16 Mar |Object-Oriented Programming | Apply OOP concepts | 22 Mar |
 |8  |23 Mar |__Project work__| | 5 Apr |
 |||__Spring break (30 Mar - 5 Apr) - No classes__|
-|9  |6 Apr | Graphical User Interfaces | tkinter | TBA |
-|10 |13 Apr | Files and Databases | Creating files and CSV parsing | TBA |
-|11 |20 Apr | Modifying Multimedia | Python Image Library | TBA |
-|12 |17 Apr | Programming Lab 8 | | TBA |
-|13 |4 May | __Final Project Part 1__ | | TBA |
-|14 |11 May | Midterm Project |  | TBA |
-|15 |18 May |  __Final Exam__    |  | TBA |
-|16 |25 May | __Final Project Part 2__ |  | TBA |
+|9  |6 Apr | Graphical User Interfaces | tkinter | 12 Apr |
+|10 |13 Apr | Files and Databases | Creating files and CSV parsing | 19 Apr |
+|11 |20 Apr | Modifying Multimedia | Python Image Library | 26 Apr |
+|12 |27 Apr | Programming Lab 8 | | 3 May |
+|13 |4 May | __Final Project Part 1__ | | 10 May |
+|14 |11 May | Midterm Project |  | 17 May |
+|15 |18 May |  __Final Exam__    |  | 24 May |
+|16 |25 May | __Final Project Part 2__ |  | 31 May |
 
 ## Textbook
 The following textbook is used for this course:  
